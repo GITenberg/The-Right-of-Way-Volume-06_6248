@@ -1,5 +1,5 @@
 _repo: The-Right-of-Way-Volume-06_6248
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Canadian fiction'
 - !lcc 'PS'
+- GITenberg
 title: The Right of Way — Volume 06
 url: http://www.gutenberg.org/ebooks/6248
