@@ -1,5 +1,5 @@
-The Project Gutenberg EBook Michel and Angle, by Gilbert Parker, v1
-#77 in our series by Gilbert Parker
+The Project Gutenberg EBook The Right of Way, by G. Parker, v6
+#75 in our series by Gilbert Parker
 
 Copyright laws are changing all over the world. Be sure to check the
 copyright laws for your country before downloading or redistributing
@@ -8,7 +8,7 @@ this or any other Project Gutenberg eBook.
 This header should be the first thing seen when viewing this Project
 Gutenberg file.  Please do not remove it.  Do not change or edit the
 header without written permission.
-
+                    
 Please read the "legal small print," and other information about the
 eBook and Project Gutenberg at the bottom of this file.  Included is
 important information about your specific rights and restrictions in
@@ -23,13 +23,13 @@ donation to Project Gutenberg, and how to get involved.
 *****These EBooks Were Prepared By Thousands of Volunteers*****
 
 
-Title: Michel and Angele [A Ladder of Swords], Volume 1.
+Title: The Right of Way, Volume 6.
 
 Author: Gilbert Parker
 
 Release Date: August, 2004  [EBook #6248]
 [Yes, we are more than one year ahead of schedule]
-[This file was first posted on October 31, 2002]
+[This file was first posted on October 24, 2002]
 
 Edition: 10
 
@@ -41,1796 +41,1931 @@ Character set encoding: ASCII
 
 
 
-*** START OF THE PROJECT GUTENBERG EBOOK MICHEL AND ANGELE, PARKER, V1 ***
+*** START OF THE PROJECT GUTENBERG EBOOK THE RIGHT OF WAY, PARKER, V6 ***
 
 
 
-This eBook was produced by David Widger
+This eBook was produced by David Widger <widger@cecomet.net>
 
 
 
 
 
-MICHEL AND ANGELE
-
-[A Ladder of Swords]
+THE RIGHT OF WAY
 
 By Gilbert Parker
 
-Volume 1.
-
-
-
-
-
-INTRODUCTION
-
-If it does not seem too childish a candour to say so, 'Michel and Angele'
-always seems to me like some old letter lifted out of an ancient cabinet
-with the faint perfume of bygone days upon it.  Perhaps that is because
-the story itself had its origin in a true but brief record of some good
-Huguenots who fled from France and took refuge in England, to be found,
-as the book declares, at the Walloon Church, in Southampton.
-
-The record in the first paragraphs of the first chapter of the book
-fascinated my imagination, and I wove round Michel de la Foret and Angele
-Aubert a soft, bright cloud of romance which would not leave my vision
-until I sat down and wrote out what, in the writing, seemed to me a true
-history.  It was as though some telepathy between the days of Elizabeth
-and our own controlled me--self-hypnotism, I suppose; but still, there it
-was.  The story, in its original form, was first published in 'Harper's
-Weekly' under the name of Michel and Angele, but the fear, I think, that
-many people would mispronounce the first word of the title, induced me to
-change it when, double in length, it became a volume called 'A Ladder of
-Swords'.
-
-As it originally appeared, I wrote it in the Island of Jersey, out at the
-little Bay of Rozel in a house called La Chaire, a few yards away from
-the bay itself, and having a pretty garden with a seat at its highest
-point, from which, beyond the little bay, the English Channel ran away to
-the Atlantic.  It was written in complete seclusion.  I had no visitors;
-there was no one near, indeed, except the landlord of the little hotel in
-the bay, and his wife.  All through the Island, however, were people whom
-I knew, like the Malet de Carterets, the Lemprieres, and old General
-Pipon, for whom the Jersey of three hundred years ago was as near as the
-Jersey of to-day, so do the Jersiais prize, cultivate, and conserve every
-hour of its recorded history.
-
-As the sea opens out to a vessel making between the promontories to the
-main, so, while writing this tale which originally was short, the larger
-scheme of 'The Battle of the Strong' spread out before me, luring me, as
-though in the distance were the Fortunate Isles.  Eight years after
-'Michel and Angele' was written and first published in 'Harper's Weekly',
-I decided to give it the dignity of a full-grown romance.  For years I
-had felt that it had the essentials for a larger canvas, and at the
-earnest solicitation of Messrs. Harper & Brothers I settled to do what
-had long been in my mind.  The narrative grew as naturally from what it
-was to larger stature as anything that had been devised upon a greater
-scale at the beginning; and in London town I had the same joy in the
-company of Michel and Angele--and a vastly increased joy in the company
-of Lempriere, the hulking, joyous giant--as I had years before in Jersey
-itself when the story first stirred in my mind and reached my pen.
-
-While adverse reviews of the book were few if any, it cannot be said that
-this romance is a companion in popularity with, for instance, 'The Right
-of Way'.  It had its friends, but it has apparently appealed to smaller
-audiences--to those who watch the world go by; who are not searching for
-the exposure of life's grim realities; who do not seek the clinic of the
-soul's tragedies.  There was tragedy here, but there was comedy too;
-there was also joy and faith, patience and courage.  The book, taken by
-itself, could not make a permanent reputation for any man, but it has its
-place in the scheme of my work, and I would not have it otherwise than it
-is.
-
-
-
-
-A NOTE
-
-There will be found a few anachronisms in this tale, but none so
-important as to give a wrong impression of the events of Queen
-Elizabeth's reign.
-
-
-
-
-MICHEL AND ANGELE
-
-CHAPTER I
-
-If you go to Southampton and search the register of the Walloon Church
-there, you will find that in the summer of 157_,
-
-     "Madame Vefue de Montgomery with all her family and servants were
-     admitted to the Communion"--"Tous ceux cj furent Recus la a Cene du
-     157_, comme passans, sans avoir Rendu Raison de la foj, mes sur la
-     tesmognage de Mons. Forest, Ministre de Madame, quj certifia quj ne
-     cognoisoit Rien en tout ceux la po' quoy Il ne leur deust administre
-     la Cene s'il estoit en lieu po' a ferre."
-
-There is another striking record, which says that in August of the same
-year Demoiselle Angele Claude Aubert, daughter of Monsieur de la Haie
-Aubert, Councillor of the Parliament of Rouen, was married to Michel de
-la Foret, of the most noble Flemish family of that name.
-
-When I first saw these records, now grown dim with time, I fell to
-wondering what was the real life-history of these two people.  Forthwith,
-in imagination, I began to make their story piece by piece; and I had
-reached a romantic 'denoument' satisfactory to myself and in sympathy
-with fact, when the Angel of Accident stepped forward with some "human
-documents."  Then I found that my tale, woven back from the two obscure
-records I have given, was the true story of two most unhappy yet most
-happy people.  From the note struck in my mind, when my finger touched
-that sorrowful page in the register of the Church of the Refugees at
-Southampton, had spread out the whole melody and the very book of the
-song.
-
-One of the later-discovered records was a letter, tear-stained, faded,
-beautifully written in old French, from Demoiselle Angele Claude Aubert
-to Michel de la Foret at Anvers in March of the year 157_.  The letter
-lies beside me as I write, and I can scarcely believe that three and a
-quarter centuries have passed since it was written, and that she who
-wrote it was but eighteen years old at the time.  I translate it into
-English, though it is impossible adequately to carry over either the
-flavour or the idiom of the language:
-
-     Written on this May Day of the year 157_, at the place hight Rozel
-     in the Manor called of the same of Jersey Isle, to Michel de la
-     Foret, at Anvers in Flanders.
-
-     MICHEL, Thy good letter by safe carriage cometh to my hand, bringing
-     to my heart a lightness it hath not known since that day when I was
-     hastily carried to the port of St. Malo, and thou towards the King
-     his prison.  In what great fear have I lived, having no news of thee
-     and fearing all manner of mischance!  But our God hath benignly
-     saved thee from death, and me He hath set safely here in this isle
-     of the sea.
-
-     Thou hast ever been a brave soldier, enduring and not fearing; thou
-     shalt find enow to keep thy blood stirring in these days of trial
-     and peril to us who are so opprobriously called Les Huguenots.  If
-     thou wouldst know more of my mind thereupon, come hither.  Safety is
-     here, and work for thee--smugglers and pirates do abound on these
-     coasts, and Popish wolves do harry the flock even in this island
-     province of England.  Michel, I plead for the cause which thou hast
-     nobly espoused, but--alas! my selfish heart, where thou art lie work
-     and fighting, and the same high cause, and sadly, I confess, it is
-     for mine own happiness that I ask thee to come.  I wot well that
-     escape from France hath peril, that the way hither from that point
-     upon yonder coast called Carteret is hazardous, but yet-but yet all
-     ways to happiness are set with hazard.
-
-     If thou dost come to Carteret thou wilt see two lights turning this-
-     wards: one upon a headland called Tour de Rozel, and one upon the
-     great rock called of the Ecrehos.  These will be in line with thy
-     sight by the sands of Hatainville.  Near by the Tour de Rozel shall
-     I be watching and awaiting thee.  By day and night doth my prayer
-     ascend for thee.
-
-     The messenger who bears this to thee (a piratical knave with a most
-     kind heart, having, I am told, a wife in every port of France and of
-     England the south, a most heinous sin!) will wait for thy answer, or
-     will bring thee hither, which is still better.  He is worthy of
-     trust if thou makest him swear by the little finger of St. Peter.
-     By all other swearings he doth deceive freely.
-
-     The Lord make thee true, Michel.  If thou art faithful to me, I
-     shall know how faithful thou art in all; for thy vows to me were
-     most frequent and pronounced, with a full savour that might warrant
-     short seasoning.  Yet, because thou mayst still be given to such
-     dear fantasies of truth as were on thy lips in those dark days
-     wherein thy sword saved my life 'twixt Paris and Rouen, I tell thee
-     now that I do love thee, and shall so love when, as my heart
-     inspires me, the cloud shall fall that will hide us from each other
-     forever.
-
-                                             ANGELE.
-
-     An Afterword:
-
-     I doubt not we shall come to the heights where there is peace,
-     though we climb thereto by a ladder of swords.  A.
-
-
-Some years before Angele's letter was written, Michel de la Foret had
-become an officer in the army of Comte Gabriel de Montgomery, and fought
-with him until what time the great chief was besieged in the Castle of
-Domfront in Normandy.  When the siege grew desperate, Montgomery besought
-the intrepid young Huguenot soldier to escort Madame de Montgomery to
-England, to be safe from the oppression and misery sure to follow any
-mishap to this noble leader of the Camisards.
-
-At the very moment of departure of the refugees from Domfront with the
-Comtesse, Angele's messenger--the "piratical knave with the most kind
-heart "presented himself, delivered her letter to De la Foret, and
-proceeded with the party to the coast of Normandy by St. Brieuc.
-Embarking there in a lugger which Buonespoir the pirate secured for them,
-they made for England.
-
-Having come but half-way of the Channel, the lugger was stopped by an
-English frigate.  After much persuasion the captain of the frigate agreed
-to land Madame de Montgomery upon the island of Jersey, but forced De la
-Foret to return to the coast of France; and Buonespoir elected to return
-with him.
-
-
-
-
-CHAPTER II
-
-Meanwhile Angele had gone through many phases of alternate hope and
-despair.  She knew that Montgomery the Camisard was dead, and a rumour,
-carried by refugees, reached her that De la Foret had been with him to
-the end.  To this was presently added the word that De la Foret had been
-beheaded.  But one day she learned that the Comtesse de Montgomery was
-sheltered by the Governor, Sir Hugh Pawlett, her kinsman, at Mont Orgueil
-Castle.  Thither she went in fear from her refuge at Rozel, and was
-admitted to the Comtesse.  There she learned the joyful truth that De la
-Foret had not been slain, and was in hiding on the coast of Normandy.
-
-The long waiting was a sore trial, yet laughter was often upon her lips
-henceforth.  The peasants, the farmers and fishermen of Jersey, at first
---as they have ever been--little inclined towards strangers, learned at
-last to look for her in the fields and upon the shore, and laughed in
-response, they knew not why, to the quick smiling of her eyes.  She even
-learned to speak their unmusical but friendly Norman-Jersey French.
-There were at least a half-dozen fishermen who, for her, would have gone
-at night straight to the Witches' Rock in St. Clement's Bay--and this was
-bravery unmatched.
-
-It came to be known along the coast that "Ma'm'selle" was waiting for a
-lover fleeing from the French coast.  This gave her fresh interest in the
-eyes of the serfs and sailors and their women folk, who at first were not
-inclined towards the Huguenot maiden, partly because she was French, and
-partly because she was not a Catholic.  But even these, when they saw
-that she never talked religiously, that she was fast learning to speak
-their own homely patois, and that in the sickness of their children she
-was untiring in her kindness, forgave the austerity of the gloomy-browed
-old man her father, who spoke to them distantly, or never spoke at all;
-and her position was secure.  Then, upon the other hand, the gentry of
-the manors, seeing the friendship grow between her and the Comtesse de
-Montgomery at Mont Orgueil Castle, made courteous advances towards her
-father, and towards herself through him.
-
-She could scarce have counted the number of times she climbed the great
-hill like a fortress at the lift of the little bay of Rozel, and from the
-Nez du Guet scanned the sea for a sail and the sky for fair weather.
-When her eyes were not thus busy, they were searching the lee of the
-hillside round for yellow lilies, and the valley below for the campion,
-the daffodil, and the thousand pretty ferns growing in profusion there.
-Every night she looked out to see that her signal fire was lit upon the
-Nez du Guet, and she never went to bed without taking one last look over
-the sea, in the restless inveterate hope which at once sustained her and
-devoured her.
-
-But the longest waiting must end.  It came on the evening of the very day
-that the Seigneur of Rozel went to Angele's father and bluntly told him
-he was ready to forego all Norman-Jersey prejudice against the French and
-the Huguenot religion, and take Angele to wife without penny or estate.
-
-In reply to the Seigneur, Monsieur Aubert said that he was conscious of
-an honour, and referred Monsieur to his daughter, who must answer for
-herself; but he must tell Monsieur of Rozel that Monsieur's religion
-would, in his own sight, be a high bar to the union.  To that the
-Seigneur said that no religion that he had could be a bar to anything at
-all; and so long as the young lady could manage her household, drive a
-good bargain with the craftsmen and hucksters, and have the handsomest
-face and manners in the Channel Islands, he'd ask no more; and she might
-pray for him and his salvation without let or hindrance.
-
-The Seigneur found the young lady in a little retreat among the rocks,
-called by the natives La Chaire.  Here she sat sewing upon some coarse
-linen for a poor fisherwoman's babe when the Seigneur came near.  She
-heard the scrunch of his heels upon the gravel, the clank of his sword
-upon the rocks, and looked up with a flush, her needle poised; for none
-should know of her presence in this place save her father.  When she saw
-who was her visitor, she rose.  After greeting and compliment, none too
-finely put, but more generous than fitted with Jersey parsimony, the
-gentleman of Rozel came at once to the point.
-
-"My name is none too bad," said he--"Raoul Lempriere, of the Lemprieres
-that have been here since Rollo ruled in Normandy.  My estate is none
-worse than any in the whole islands; I have more horses and dogs than any
-gentleman of my acres; and I am more in favour at court than De Carteret
-of St. Ouen's.  I am the Queen's butler, and I am the first that royal
-favour granted to set up three dove-cotes, one by St. Aubin's, one by St.
-Helier's, and one at Rozel: and--and," he added, with a lumbering attempt
-at humour--"and, on my oath, I'll set up another dove-cote with out my
-sovereign's favour, with your leave alone.  By our Lady, I do love that
-colour in yon cheek!  Just such a colour had my mother when she snatched
-from the head of my cousin of Carteret's milk-maid wife the bonnet of a
-lady of quality and bade her get to her heifers.  God's beauty!  but 'tis
-a colour of red primroses in thy cheeks and blue campions in thine eyes.
-Come, I warrant I can deepen that colour"--he bowed low--"Madame of
-Rozel, if it be not too soon!"
-
-The girl listened to this cheerful and loquacious proposal and courtship
-all in one, ending with the premature bestowal of a title, in mingled
-anger, amusement, disdain, and apprehension.  Her heart fluttered, then
-stood still, then flew up in her throat, then grew terribly hot and hurt
-her, so that she pressed her hand to her bosom as though that might ease
-it.  By the time he had finished, drawn himself up, and struck his foot
-upon the ground in burly emphasis of his devoted statements, the girl had
-sufficiently recovered to answer him composedly, and with a little glint
-of demure humour in her eyes.  She loved another man; she did not care so
-much as a spark for this happy, swearing, swashbuckling gentleman; yet
-she saw he had meant to do her honour.  He had treated her as courteously
-as was in him to do; he chose her out from all the ladies of his
-acquaintance to make her an honest offer of his hand--he had said nothing
-about his heart; he would, should she marry him, throw her scraps of
-good-humour, bearish tenderness, drink to her health among his fellows,
-and respect and admire her--even exalt her almost to the rank of a man
-in his own eyes; and he had the tolerance of the open-hearted and open-
-handed man.  All these things were as much a compliment to her as though
-she were not a despised Huguenot, an exiled lady of no fortune.  She
-looked at him a moment with an almost solemn intensity, so that he
-shifted his ground uneasily, but at once smiled encouragingly, to relieve
-her embarrassment at the unexpected honour done her.  She had remained
-standing; now, as he made a step towards her, she sank down upon the
-seat, and waved him back courteously.
-
-"A moment, Monsieur of Rozel," she ventured.  "Did my father send you to
-me?"
-
-He inclined his head and smiled again.
-
-"Did you say to him what you have said to me?" she asked, not quite
-without a touch of malice.
-
-"I left out about the colour in the cheek," he answered, with a smirk at
-what he took to be the quickness of his wit.
-
-"You kept your paint-pot for me," she replied softly.
-
-"And the dove-cote, too," he rejoined, bowing finely, and almost carried
-off his feet by his own brilliance.  She became serious at once--so
-quickly that he was ill prepared for it, and could do little but stare
-and pluck at the tassel of his sword; for he was embarrassed before this
-maiden, who changed as quickly as the currents change under the brow of
-the Couperon Cliff, behind which lay his manor-house of Rozel.
-
-"I have visited at your manor, Monsieur of Rozel.  I have seen the state
-in which you live, your retainers, your men-at-arms, your farming-folk,
-and your sailormen.  I know how your Queen receives you; how your honour
-is as stable as your fief."
-
-He drew himself up again proudly.  He could understand this speech.
-
-"Your horses and your hounds I have seen," she added, "your men-servants
-and your maid-servants, your fields of corn, your orchards, and your
-larder.  I have sometimes broken the Commandment and coveted them and
-envied you."
-
-"Break the Commandment again, for the last time," he cried, delighted and
-boisterous.  "Let us not waste words, lady.  Let's kiss and have it
-over."
-
-Her eyes flashed.  "I coveted them and envied you; but then, I am but a
-vain girl at times, and vanity is easier to me than humbleness."
-
-"Blood of man, but I cannot understand so various a creature!" he broke
-in, again puzzled.
-
-"There is a little chapel in the dell beside your manor, Monsieur.  If
-you will go there, and get upon your knees, and pray till the candles no
-more burn, and the Popish images crumble in their places, you will yet
-never understand myself or any woman."
-
-"There's no question of Popish images between us," he answered, vainly
-trying for foothold.  "Pray as you please, and I'll see no harm comes to
-the Mistress of Rozel."
-
-He was out of his bearings and impatient.  Religion to him was a dull
-recreation invented chiefly for women.  She became plain enough now.
-"'Tis no images nor religion that stands between us," she answered,
-"though they might well do so.  It is that I do not love you, Monsieur of
-Rozel."
-
-His face, which had slowly clouded, suddenly cleared.  "Love! Love!"  He
-laughed good-humouredly.  "Love comes, I'm told, with marriage.  But we
-can do well enough without fugling on that pipe.  Come, come, dost think
-I'm not a proper man and a gentleman?  Dost think I'll not use thee well
-and 'fend thee, Huguenot though thou art, 'gainst trouble or fret or any
-man's persecutions--be he my Lord Bishop, my Lord Chancellor, or King of
-France, or any other?"
-
-She came a step closer to him, even as though she would lay a hand upon
-his arm.  "I believe that you would do all that in you lay," she answered
-steadily.  "Yours is a rough wooing, but it is honest--"
-
-"Rough! Rough!" he protested, for he thought he had behaved like some
-Adonis.  Was it not ten years only since he had been at Court!
-
-"Be assured, Monsieur, that I know how to prize the man who speaks after
-the light given him.  I know that you are a brave and valorous gentleman.
-I must thank you most truly and heartily, but, Monsieur, you and yours
-are not for me.  Seek elsewhere, among your own people, in your own
-religion and language and position, the Mistress of Rozel."
-
-He was dumfounded.  Now he comprehended the plain fact that he had been
-declined.
-
-"You send me packing!" he blurted out, getting red in the face.
-
-"Ah, no!  Say it is my misfortune that I cannot give myself the great
-honour," she said; in her tone a little disdainful dryness, a little
-pity, a little feeling that here was a good friend lost.
-
-"It's not because of the French soldier that was with Montgomery at
-Domfront?--I've heard that story.  But he's gone to heaven, and 'tis vain
-crying for last year's breath," he added, with proud philosophy.
-
-"He is not dead.  And if he were," she added, "do you think, Monsieur,
-that we should find it easier to cross the gulf between us?"
-
-"Tut, tut, that bugbear Love!" he said shortly.  "And so you'd lose a
-good friend for a dead lover?  I' faith, I'd befriend thee well if thou
-wert my wife, Ma'm'selle."
-
-"It is hard for those who need friends to lose them," she answered sadly.
-
-The sorrow of her position crept in upon her and filled her eyes with
-tears.  She turned them to the sea-instinctively towards that point on
-the shore where she thought it likely Michel might be; as though by
-looking she might find comfort and support in this hard hour.
-
-Even as she gazed into the soft afternoon light she could see, far over,
-a little sail standing out towards the Ecrehos.  Not once in six months
-might the coast of France be seen so clearly.  One might almost have
-noted people walking on the beach.  This was no good token, for when that
-coast may be seen with great distinctness a storm follows hard after.
-The girl knew this; and though she could not know that this was Michel de
-la Foret's boat, the possibility fixed itself in her mind.  She quickly
-scanned the horizon.  Yes, there in the north-west was gathering a dark-
-blue haze, hanging like small filmy curtains in the sky.
-
-The Seigneur of Rozel presently broke the silence so awkward for him.
-He had seen the tears in her eyes, and though he could not guess the
-cause, he vaguely thought it might be due to his announcement that she
-had lost a friend.  He was magnanimous at once, and he meant what he said
-and would stand by it through thick and thin.
-
-"Well, well, I'll be thy everlasting friend if not thy husband," he said
-with ornate generosity.  "Cheer thy heart, lady."
-
-With a sudden impulse she seized his hand and kissed it, and, turning,
-ran swiftly down the rocks towards her home.
-
-He stood and looked after her, then, dumfounded, at the hand she had
-kissed.
-
-"Blood of my heart!" he said, and shook his head in utter amazement.
-
-Then he turned and looked out upon the Channel.  He saw the little boat
-Angele had descried making from France.  Glancing at the sky, "What fools
-come there!" he said anxiously.
-
-They were Michel de la Foret and Buonespoir the pirate, in a black-
-bellied cutter with red sails.
-
-
-
-
-CHAPTER III
-
-For weeks De la Foret and Buonespoir had lain in hiding at St. Brieuc.
-At last Buonespoir declared all was ready once again.  He had secured for
-the Camisard the passport and clothes of a priest who had but just died
-at Granville.  Once again they made the attempt to reach English soil.
-
-Standing out from Carteret on the Belle Suzanne, they steered for the
-light upon the Marmotier Rocks of the Ecrehos, which Angele had paid a
-fisherman to keep going every night.  This light had caused the French
-and English frigates some uneasiness, and they had patrolled the Channel
-from Cap de la Hague to the Bay of St. Brieuc with a vigilance worthy of
-a larger cause.  One fine day an English frigate anchored off the
-Ecrehos, and the fisherman was seized.  He, poor man, swore that he kept
-the light burning to guide his brother fishermen to and fro between
-Boulay Bay and the Ecrehos.  The captain of the frigate tried severities;
-but the fisherman stuck to his tale, and the light burned on as before--
-a lantern stuck upon a pole.  One day, with a telescope, Buonespoir had
-seen the exact position of the staff supporting the light, and had mapped
-out his course accordingly.  He would head straight for the beacon and
-pass between the Marmotier and the Maitre Ile, where is a narrow channel
-for a boat drawing only a few feet of water.  Unless he made this, he
-must run south and skirt the Ecriviere Rock and bank, where the streams
-setting over the sandy ridges make a confusing perilous sea to mariners
-in bad weather.  Else, he must sail north between the Ecrehos and the
-Dirouilles, in the channel called Etoc, a tortuous and dangerous passage
-save in good weather, and then safe only to the mariner who knows the
-floor of that strait like his own hand.  De la Foret was wholly in the
-hands of Buonespoir, for he knew nothing of these waters and coasts; also
-he was a soldier and no sailor.
-
-They cleared Cape Carteret with a fair wind from the north-east, which
-should carry them safely as the bird flies to the haven of Rozel.  The
-high, pinkish sands of Hatainville were behind them; the treacherous
-Taillepied Rocks lay to the north, and a sweet sea before.  Nothing could
-have seemed fairer and more hopeful.  But a few old fishermen on shore at
-Carteret shook their heads dubiously, and at Port Bail, some miles below,
-a disabled naval officer, watching through a glass, rasped out,
-"Criminals or fools!"  But he shrugged his shoulders, for if they were
-criminals he was sure they would expiate their crimes this night, and if
-they were fools--he had no pity for fools.
-
-But Buonespoir knew his danger.  Truth is, he had chosen this night
-because they would be safest from pursuit, because no sensible seafaring
-man, were he King's officer or another, would venture forth upon the
-impish Channel, save to court disaster.  Pirate, and soldier in priest's
-garb, had frankly taken the chances.
-
-With a fair wind they might, with all canvas set--mainsail, foresail,
-jib, and fore-topsail--make Rozel Bay within two hours and a quarter.
-All seemed well for a brief half-hour.  Then, even as the passage between
-the Marmotier and the Ecrehos opened out, the wind suddenly shifted from
-the north-east to the southwest and a squall came hurrying on them--a few
-moments too soon; for, had they been clear of the Ecrehos, clear of the
-Taillepieds, Felee Bank, and the Ecriviere, they could have stood out
-towards the north in a more open sea.
-
-Yet there was one thing in their favour: the tide was now running hard
-from the north-west, so fighting for them while the wind was against
-them.  Their only safety lay in getting beyond the Ecrehos.  If they
-attempted to run in to the Marmotier for safety, they would presently be
-at the mercy of the French.  To trust their doubtful fortunes and bear on
-was the only way.  The tide was running fast.  They gave the mainsail to
-the wind still more, and bore on towards the passage.  At last, as they
-were opening on it, the wind suddenly veered full north-east.  The sails
-flapped, the boat seemed to hover for a moment, and then a wave swept her
-towards the rocks.  Buonespoir put the helm hard over, she went about,
-and they close-hauled her as she trembled towards the rocky opening.
-
-This was the critical instant.  A heavy sea was running, the gale was
-blowing hard from the north-east, and under the close-hauled sail the
-Belle Suzanne was lying over dangerously.  But the tide, too, was running
-hard from the south, fighting the wind; and, at the moment when all
-seemed terribly uncertain, swept them past the opening and into the
-swift-running channel, where the indraught sucked them through to the
-more open water beyond.
-
-Although the Belle Suzanne was in more open water now, the danger was not
-over.  Ahead lay a treacherous sea, around them roaring winds, and the
-perilous coast of Jersey beyond all.
-
-"Do you think we shall land?" quietly asked De la Foret, nodding towards
-the Jersey coast.
-
-"As many chances 'gainst it as for it, M'sieu'," said Buonespoir, turning
-his face to the north, for the wind had veered again to north-east, and
-he feared its passing to the north-west, giving them a head-wind and a
-swooping sea.
-
-Night came down, but with a clear sky and a bright moon; the wind,
-however, not abating.  The next three hours were spent in tacking, in
-beating towards the Jersey coast under seas which almost swamped them.
-They were standing off about a mile from the island, and could see
-lighted fires and groups of people upon the shore, when suddenly a gale
-came out from the southwest, the wind having again shifted.  With an
-oath, Buonespoir put the helm hard over, the Belle Suzanne came about
-quickly, but as the gale struck her, the mast snapped like a pencil, she
-heeled over, and the two adventurers were engulfed in the waves.
-
-A cry of dismay went up from the watchers on the shore.  They turned with
-a half-conscious sympathy towards Angele, for her story was known by all,
-and in her face they read her mortal fear, though she made no cry, but
-only clasped her hands in agony.  Her heart told her that yonder Michel
-de la Foret was fighting for his life.  For an instant only she stood,
-the terror of death in her eyes, then she turned to the excited fishermen
-near.
-
-"Men, oh men," she cried, "will you not save them?  Will no one come with
-me?"
-
-Some shook their heads sullenly, others appeared uncertain, but their
-wives and children clung to them, and none stirred.  Looking round
-helplessly, Angele saw the tall figure of the Seigneur of Rozel.  He had
-been watching the scene for some time.  Now he came quickly to her.
-
-"Is it the very man?" he asked her, jerking a finger towards the
-struggling figures in the sea.
-
-"Yes, oh yes," she replied, nodding her head piteously.  "God tells my
-heart it is."
-
-Her father drew near and interposed.
-
-"Let us kneel and pray for two dying men," said he, and straightway knelt
-upon the sand.
-
-"By St. Martin, we've better medicine than that, apothecary!" said
-Lempriere of Rozel loudly, and, turning round, summoned two serving-men.
-"Launch my strong boat," he added.  "We will pick these gentlemen from
-the brine, or know the end of it all."
-
-The men hurried gloomily to the long-boat, ran her down to the shore and
-into the surf.
-
-"You are going--you are going to save him, dear Seigneur?" asked the
-girl tremulously.
-
-"To save him--that's to be seen, mistress," answered Lempriere, and
-advanced to the fishermen.  By dint of hard words, and as hearty
-encouragement and promises, he got a half-dozen strong sailors to man the
-boat.
-
-A moment after, they were all in.  At a motion from the Seigneur, the
-boat was shot out into the surf, and a cheer from the shore gave heart to
-De la Foret and Buonespoir, who were being driven upon the rocks.
-
-The Jerseymen rowed gallantly; and the Seigneur, to give them heart,
-promised a shilling, a capon, and a gallon of beer to each, if the rescue
-was made.  Again and again the two men seemed to sink beneath the sea,
-and again and again they came to the surface and battled further, torn,
-battered, and bloody, but not beaten.  Cries of "We're coming, gentles,
-we're coming!" from the Seigneur of Rozel, came ringing through the surf
-to the dulled ears of the drowning men, and they struggled on.
-
-There never was a more gallant rescue.  Almost at their last gasp the two
-were rescued.
-
-"Mistress Aubert sends you welcome, sir, if you be Michel de la Foret,"
-said Lempriere of Rozel, and offered the fugitive his horn of liquor as
-he lay blown and beaten in the boat.
-
-"I am he," De la Foret answered.  "I owe you my life, Monsieur," he
-added.
-
-Lempriere laughed.  "You owe it to the lady; and I doubt you can properly
-pay the debt," he answered, with a toss of the head; for had not the lady
-refused him, the Seigneur of Rozel, six feet six in height, and all else
-in proportion, while this gentleman was scarce six feet.
-
-"We can have no quarrel upon the point," answered De la Foret, reaching
-out his hand; "you have at least done tough work for her, and if I cannot
-pay in gold, I can in kind.  It was a generous deed, and it has made a
-friend for ever of Michel de la Foret."
-
-"Raoul Lempriere of Rozel they call me, Michel de la Foret, and by Rollo
-the Duke, but I'll take your word in the way of friendship, as the lady
-yonder takes it for riper fruit!  Though, faith, 'tis fruit of a short
-summer, to my thinking."
-
-All this while Buonespoir the pirate, his face covered with blood, had
-been swearing by the little finger of St. Peter that each Jerseyman there
-should have the half of a keg of rum.  He went so far in gratitude as to
-offer the price of ten sheep which he had once secretly raided from the
-Seigneur of Rozel and sold in France; for which he had been seized on his
-later return to the island, and had escaped without punishment.
-
-Hearing, Lempriere of Rozel roared at him in anger: "Durst speak to me!
-For every fleece you thieved I'll have you flayed with bow-strings if
-ever I sight your face within my boundaries."
-
-"Then I'll fetch and carry no more for M'sieu' of Rozel," said
-Buonespoir, in an offended tone, but grinning under his reddish beard.
-
-"When didst fetch and carry for me, varlet?" Lempriere roared again.
-
-"When the Seigneur of Rozel fell from his horse, overslung with sack, the
-night of the royal Duke's visit, and the footpads were on him, I carried
-him on my back to the lodge of Rozel Manor.  The footpads had scores to
-settle with the great Rozel."
-
-For a moment the Seigneur stared, then roared again, but this time with
-laughter.
-
-"By the devil and Rollo, I have sworn to this hour that there was no man
-in the isle could have carried me on his shoulders.  And I was right, for
-Jersiais you're none, neither by adoption nor grace, but a citizen of the
-sea."
-
-He laughed again as a wave swept over them, drenching them, and a sudden
-squall of wind came out of the north.  "There's no better head in the
-isle than mine for measurement and thinking, and I swore no man under
-eighteen stone could carry me, and I am twenty-five--I take you to be
-nineteen stone, eh?"
-
-"Nineteen, less two ounces," grinned Buonespoir.
-
-"I'll laugh De Carteret of St. Ouen's out of his stockings over this,"
-answered Lempriere.  "Trust me for knowing weights and measures!  Look
-you, varlet, thy sins be forgiven thee.  I care not about the fleeces, if
-there be no more stealing.  St. Ouen's has no head--I said no one man in
-Jersey could have done it--I'm heavier by three stone than any man in the
-island."  Thereafter there was little speaking among them, for the danger
-was greater as they neared the shore.  The wind and the sea were against
-them; the tide, however, was in their favour.  Others besides M. Aubert
-offered up prayers for the safe-landing of the rescued and rescuers.
-Presently an ancient fisherman broke out into a rude sailor's chanty, and
-every voice, even those of the two Huguenots, took it up:
-
-          "When the Four Winds, the Wrestlers, strive with the Sun,
-          When the Sun is slain in the dark;
-          When the stars burn out, and the night cries
-          To the blind sea-reapers, and they rise,
-          And the water-ways are stark--
-               God save us when the reapers reap!
-          When the ships sweep in with the tide to the shore,
-          And the little white boats return no more;
-          When the reapers reap, Lord give Thy sailors sleep,
-          If Thou cast us not upon the shore,
-          To bless Thee evermore:
-          To walk in Thy sight as heretofore
-          Though the way of the Lord be steep!
-          By Thy grace,
-          Show Thy face,
-               Lord of the land and the deep!"
-
-The song stilled at last.  It died away in the roar of the surf,
-in the happy cries of foolish women, and the laughter of men back from
-a dangerous adventure.  As the Seigneur's boat was drawn up the shore,
-Angele threw herself into the arms of Michel de la Foret, the soldier
-dressed as a priest.
-
-Lempriere of Rozel stood abashed before this rich display of feeling.
-In his hottest youth he could not have made such passionate motions of
-affection.  His feelings ran neither high nor broad, but neither did they
-run low and muddy.  His nature was a straight level of sensibility--a
-rough stream between high banks of prejudice, topped with the foam of
-vanity, now brawling in season, and now going steady and strong to the
-sea.  Angele had come to feel what he was beneath the surface.  She felt
-how unimaginative he was, and how his humour, which was but the horse-
-play of vanity, helped him little to understand the world or himself.
-His vanity was ridiculous, his self-importance was against knowledge or
-wisdom; and Heaven had given him a small brain, a big and noble heart, a
-pedigree back to Rollo, and the absurd pride of a little lord in a little
-land.  Angele knew all this; but realised also that he had offered her
-all he was able to offer to any woman.
-
-She went now and put out both hands to him.  "I shall ever pray God's
-blessing on the lord of Rozel," she said, in a low voice.
-
-"'Twould fit me no better than St. Ouen's sword fits his fingers.  I'll
-take thine own benison, lady--but on my cheek, not on my hand as this day
-before at four of the clock."  His big voice lowered.  "Come, come, the
-hand thou kissed, it hath been the hand of a friend to thee, as Raoul
-Lempriere of Rozel said he'd be.  Thy lips upon his cheek, though it be
-but a rough fellow's fancy, and I warrant, come good, come ill, Rozel's
-face will never be turned from thee.  Pooh, pooh! let yon soldier-priest
-shut his eyes a minute; this is 'tween me and thee; and what's done
-before the world's without shame."
-
-He stopped short, his black eyes blazing with honest mirth and kindness,
-his breath short, having spoken in such haste.
-
-Her eyes could scarce see him, so full of tears were they; and, standing
-on tiptoe, she kissed him upon each cheek.
-
-"'Tis much to get for so little given," she said, with a quiver in her
-voice; "yet this price for friendship would be too high to pay to any
-save the Seigneur of Rozel."
-
-She hastily turned to the men who had rescued Michel and Buonespoir.
-"If I had riches, riches ye should have, brave men of Jersey," she said;
-"but I have naught save love and thanks, and my prayers too, if ye will
-have them."
-
-"'Tis a man's duty to save his fellow an' he can," cried a gaunt
-fisherman, whose daughter was holding to his lips a bowl of conger-eel
-soup.
-
-"'Twas a good deed to send us forth to save a priest of Holy Church,"
-cried a weazened boat-builder with a giant's arm, as he buried his face
-in a cup of sack, and plunged his hand into a fishwife's basket of
-limpets.
-
-"Aye, but what means she by kissing and arm-getting with a priest?"
-cried a snarling vraic-gatherer.  "'Tis some jest upon Holy Church, or
-yon priest is no better than common men but an idle shame."
-
-By this time Michel was among them.  "Priest I am none, but a soldier,"
-he said in a loud voice, and told them bluntly the reasons for his
-disguise; then, taking a purse from his pocket, thrust into the hands of
-his rescuers and their families pieces of silver and gave them brave
-words of thanks.
-
-But the Seigneur was not to be outdone in generosity.  His vanity ran
-high; he was fain to show Angele what a gorgeous gentleman she had failed
-to make her own; and he was in ripe good-humour all round.
-
-"Come, ye shall come, all of ye, to the Manor of Rozel, every man and
-woman here.  Ye shall be fed, and fuddled too ye shall be an' ye will;
-for honest drink which sends to honest sleep hurts no man.  To my kitchen
-with ye all; and you, messieurs"--turning to M. Aubert and De la Fore-
-"and you, Mademoiselle, come, know how open is the door and full the
-table at my Manor of Rozel--St. Ouen's keeps a beggarly board."
-
-
-
-
-CHAPTER IV
-
-Thus began the friendship of the bragging Seigneur of Rozel for the
-three Huguenots, all because he had seen tears in a girl's eyes and
-misunderstood them, and because the same girl had kissed him.  His pride
-was flattered that they should receive protection from him, and the
-flattery became almost a canonising when De Carteret of St. Ouen's
-brought him to task for harbouring and comforting the despised Huguenots;
-for when De Carteret railed he was envious.  So henceforth Lempriere
-played Lord Protector with still more boisterous unction.  His pride knew
-no bounds when, three days after the rescue, Sir Hugh Pawlett, the
-Governor, answering De la Foret's letter requesting permission to visit
-the Comtesse de Montgomery, sent him word to fetch De la Foret to Mont
-Orgueil Castle.  Clanking and blowing, he was shown into the great hall
-with De la Foret, where waited Sir Hugh and the widow of the renowned
-Camisard.  Clanking and purring like an enormous cat, he turned his head
-away to the window when De la Foret dropped on his knees and kissed the
-hand of the Comtesse, whose eyes were full of tears.  Clanking and
-gurgling, he sat to a mighty meal of turbot, eels, lobsters, ormers,
-capons, boar's head, brawn, and mustard, swan, curlew, and spiced meats.
-This he washed down with bastard, malmsey, and good ale, topped with
-almonds, comfits, perfumed cherries with "ipocras," then sprinkled
-himself with rose-water and dabbled his face and hands in it.  Filled to
-the turret, he lurched to his feet, and drinking to Sir Hugh's toast, 27
-
-"Her sacred Majesty!" he clanked and roared.  "Elizabeth!" as though
-upon the field of battle.  He felt the star of De Carteret declining and
-Rozel's glory ascending like a comet.  Once set in a course, nothing
-could change him.  Other men might err, but once right, the Seigneur of
-Rozel was everlasting.
-
-Of late he had made the cause of Michel de la Foret and Angele Aubert
-his own.  For this he had been raked upon the coals by De Carteret of St.
-Ouen's and his following, who taunted him with the saying: "Save a thief
-from hanging and he'll cut your throat."  Not that there was ill feeling
-against De la Foret in person.  He had won most hearts by a frank yet
-still manner, and his story and love for Angele had touched the women
-folk where their hearts were softest.  But the island was not true to
-itself or its history if it did not divide itself into factions, headed
-by the Seigneurs, and there had been no ground for good division for five
-years till De la Foret came.
-
-Short of actual battle, this new strife was the keenest ever known,
-for Sir Hugh Pawlett was ranged on the side of the Seigneur of Rozel.
-Kinsman of the Comtesse de Montgomery, of Queen Elizabeth's own
-Protestant religion, and admiring De la Foret, he had given every
-countenance to the Camisard refugee.  He had even besought the Royal
-Court of Jersey to grant a pardon to Buonespoir the pirate, on condition
-that he should never commit a depredation upon an inhabitant of the
-island--this he was to swear to by the little finger of St. Peter.
-Should he break his word, he was to be banished the island for ten years,
-under penalty of death if he returned.  When the hour had come for
-Buonespoir to take the oath, he failed to appear; and the next morning
-the Seigneur of St. Ouen's discovered that during the night his cellar
-had been raided of two kegs of canary, many flagons of muscadella, pots
-of anchovies and boxes of candied "eringo," kept solely for the visit
-which the Queen had promised the island.  There was no doubt of the
-misdemeanant, for Buonespoir returned to De Carteret from St. Brieuc the
-gabardine of one of his retainers, in which he had carried off the stolen
-delicacies.
-
-This aggravated the feud between the partisans of St. Ouen's and Rozel,
-for Lempriere of Rozel had laughed loudly when he heard of the robbery,
-and said "'Tis like St. Ouen's to hoard for a Queen and glut a pirate.
-We feed as we get at Rozel, and will feed the Court well too when it
-comes, or I'm no butler to Elizabeth."
-
-But trouble was at hand for Michel and for his protector.  The spies of
-Catherine de Medici, mother of the King of France, were everywhere.
-These had sent word that De la Foret was now attached to the meagre suite
-of the widow of the great Camisard Montgomery, near the Castle of Mont
-Orgueil.  The Medici, having treacherously slain the chief, became mad
-with desire to slay the lieutenant.  She was set to have the man, either
-through diplomacy with England, or to end him by assassination through
-her spies.  Having determined upon his death, with relentless soul she
-pursued the cause as closely as though this exiled soldier were a
-powerful enemy at the head of an army in France.
-
-Thus it was that she wrote to Queen Elizabeth, asking that "this arrant
-foe of France, this churl, conspirator, and reviler of the Sacraments,
-be rendered unto our hands for well-deserved punishment as warning to all
-such evil-doers."  She told Elizabeth of De la Foret's arrival in Jersey,
-disguised as a priest of the Church of France, and set forth his doings
-since landing with the Seigneur of Rozel.  Further she went on to say to
-"our sister of England" that "these dark figures of murder and revolt be
-a peril to the soft peace of this good realm."
-
-To this, Elizabeth, who had no knowledge of Michel, who desired peace
-with France at this time, who had favours to ask of Catherine, and who
-in her own realm had fresh reason to fear conspiracy through the Queen of
-the Scots and others, replied forthwith that "If this De la Foret falleth
-into our hands, and if it were found he had in truth conspired against
-France its throne, had he a million lives, not one should remain."
-Having despatched this letter, she straightway sent a messenger to Sir
-Hugh Pawlett in Jersey, making quest of De la Foret, and commanding that
-he should be sent to her in England at once.
-
-When the Queen's messenger arrived at Orgueil Castle, Lempriere chanced
-to be with Sir Hugh Pawlett, and the contents of Elizabeth's letter were
-made known to him.
-
-At the moment Monsieur of Rozel was munching macaroons and washing them
-down with canary.  The Governor's announcement was such a shock that he
-choked and coughed, the crumbs flying in all directions; and another pint
-of canary must be taken to flush his throat.  Thus cleared for action, he
-struck out.
-
-"'Tis St. Ouen's work," he growled.
-
-"'Tis the work of the Medici," said Sir Hugh.  "Read," he added, holding
-out the paper.
-
-Now Lempriere of Rozel had a poor eye for reading.  He had wit enough to
-wind about the difficulty.
-
-"If I see not the Queen's commands, I've no warrant but Sir Hugh
-Pawlett's words, and I'll to London and ask 'fore her Majesty's face if
-she wrote them, and why.  I'll tell my tale and speak my mind, I pledge
-you, sir."
-
-"You'll offend her Majesty.  Her commands are here."  Pawlett tapped the
-letter with his finger.
-
-"I'm butler to the Queen, and she will list to me.  I'll not smirk and
-caper like St. Ouen's; I'll bear me like a man not speaking for himself.
-I'll speak as Harry her father spoke--straight to the purpose.  .  .  .
-No, no, no, I'm not to be wheedled, even by a Pawlett, and you shall not
-ask me.  If you want Michel de la Foret, come and take him.  He is in my
-house.  But ye must take him, for come he shall not!"
-
-"You will not oppose the Queen's officers?"
-
-"De la Foret is under my roof.  He must be taken.  I will give him up
-to no one; and I'll tell my sovereign these things when I see her in her
-palace."
-
-"I misdoubt you'll play the bear," said Pawlett, with a dry smile.
-
-"The Queen's tongue is none so tame.  I'll travel by my star, get sweet
-or sour."
-
-"Well, well, 'give a man luck, and throw him into the sea,' is the old
-proverb.  I'm coming for your friend to-night."
-
-"I'll be waiting with my fingers on the door, sir," said Rozel, with a
-grim vanity and an outrageous pride in himself.
-
-
-
-
-CHAPTER V
-
-The Seigneur of Rozel found De la Foret at the house of M. Aubert.  His
-face was flushed with hard riding, and perhaps the loving attitude of
-Michel and Angele deepened it, for at the garden gate the lovers were
-saying adieu.
-
-"You have come for Monsieur de la Foret?" asked Angele anxiously.  Her
-quick look at the Seigneur's face had told her there were things amiss.
-
-"There's commands from the Queen.  They're for the ears of De la Foret,"
-said the Seigneur.
-
-"I will hear them too," said Angele, her colour going, her bearing
-determined.
-
-The Seigneur looked down at her with boyish appreciation, then said to
-De la Foret: "Two Queens make claim for you.  The wolfish Catherine
-writes to England for her lost Camisard, with much fool's talk about
-'dark figures,' and 'conspirators,' 'churls,' and foes of 'soft peace';
-and England takes the bait and sends to Sir Hugh Pawlett yonder.  And, in
-brief, Monsieur, the Governor is to have you under arrest and send you to
-England.  God knows why two Queens make such a pother over a fellow with
-naught but a sword and a lass to love him--though, come to think,
-'a man's a man if he have but a hose on his head,' as the proverb runs."
-
-De la Foret smiled, then looked grave, as he caught sight of Angele's
-face.  "'Tis arrest, then?" he asked.
-
-"'Tis come willy nilly," answered the Seigneur.  "And once they've forced
-you from my doors, I'm for England to speak my mind to the Queen.  I can
-make interest for her presence--I hold court office," he added with
-puffing confidence.
-
-Angele looked up at him with quick tears, yet with a smile on her lips.
-
-"You are going to England for Michel's sake?" she said in a low voice.
-
-"For Michel, or for you, or for mine honour, what matter, so that I go!"
-he answered, then added: "there must be haste to Rozel, friend, lest the
-Governor take Lempriere's guest like a potato-digger in the fields."
-
-Putting spurs to his horse, he cantered heavily away, not forgetting to
-wave a pompous farewell to Angele.  De la Foret was smiling as he turned
-to Angele.  She looked wonderingly at him, for she had felt that she must
-comfort him, and she looked not for this sudden change in his manner.
-
-"Is prison-going so blithe, then?" she asked, with a little uneasy laugh
-which was half a sob.
-
-"It will bring things to a head," he answered.  "After danger and busy
-days, to be merely safe, it is scarce the life for Michel de la Foret.
-I have my duty to the Comtesse; I have my love for you; but I seem of
-little use by contrast with my past.  And yet, and yet," he added, half
-sadly, "how futile has been all our fighting, so far as human eye can
-see."
-
-"Nothing is futile that is right, Michel," the girl replied.  "Thou hast
-done as thy soul answered to God's messages: thou hast fought when thou
-couldst, and thou hast sheathed thy blade when there was naught else to
-do.  Are not both right?"
-
-He clasped her to his breast; then, holding her from him a little, looked
-into her eyes steadily a moment.  "God hath given thee a true heart, and
-the true heart hath wisdom," he answered.
-
-"You will not seek escape?  Nor resist the Governor?" she asked eagerly.
-
-"Whither should I go?  My place is here by you, by the Comtesse de
-Montgomery.  One day it may be I shall return to France, and to our
-cause--"
-
-"If it be God's will."
-
-"If it be God's will."
-
-"Whatever comes, you will love me, Michel?"
-
-"I will love you, whatever comes."
-
-"Listen."  She drew his head down.  "I am no dragweight to thy life?
-Thou wouldst not do otherwise if there were no foolish Angele?"
-
-He did not hesitate.  "What is best is.  I might do otherwise if there
-were no Angele in my life to pilot my heart, but that were worse for me."
-
-"Thou art the best lover in all the world."
-
-"I hope to make a better husband.  To-morrow is carmine-lettered in my
-calendar, if thou sayst thou wilt still have me under the sword of the
-Medici."
-
-Her hand pressed her heart suddenly.  "Under the sword, if it be God's
-will," she answered.  Then, with a faint smile: "But no, I will not
-believe the Queen of England will send thee, one of her own Protestant
-faith, to the Medici."
-
-"And thou wilt marry me?"
-
-"When the Queen of England approves thee," she answered, and buried her
-face in the hollow of his arm.
-
-An hour later Sir Hugh Pawlett came to the manor-house of Rozel with
-two-score men-at-arms.  The Seigneur himself answered the Governor's
-knocking, and showed himself in the doorway, with a dozen halberdiers
-behind him.
-
-"I have come seeking Michel de la Foret," said the Governor.
-
-"He is my guest."
-
-"I have the Queen's command to take him."
-
-"He is my cherished guest."
-
-"Must I force my way?"
-
-"Is it the Queen's will that blood be shed?"
-
-"The Queen's commands must be obeyed."
-
-"The Queen is a miracle of the world, God save her!  What is the charge
-against him?"
-
-"Summon Michel de la Foret, 'gainst whom it lies."
-
-"He is my guest; ye shall have him only by force."  The Governor turned
-to his men.  "Force the passage and search the house," he commanded.
-
-The company advanced with levelled pikes, but at a motion from the
-Seigneur his men fell back before them, and, making a lane, disclosed
-Michel de la Foret at the end of it.  Michel had not approved of
-Lempriere's mummery of defence, but he understood from what good spirit
-it sprung, and how it flattered the Seigneur's vanity to make show of
-resistance.
-
-The Governor greeted De la Foret with a sour smile, read to him the
-Queen's writ, and politely begged his company towards Mont Orgueil
-Castle.
-
-"I'll fetch other commands from her Majesty, or write me down a pedlar of
-St. Ouen's follies," the Seigneur said from his doorway, as the Governor
-and De la Foret bade him good-bye and took the road to the Castle.
-
-
-
-
-CHAPTER VI
-
-Michel de la Foret was gone, a prisoner.  From the dusk of the trees by
-the little chapel of Rozel, Angele had watched his exit in charge of the
-Governor's men.  She had not sought to show her presence: she had seen
-him--that was comfort to her heart; and she would not mar the memory of
-that last night's farewell by another before these strangers.  She saw
-with what quiet Michel bore his arrest, and she said to herself, as the
-last halberdier vanished:
-
-"If the Queen do but speak with him, if she but look upon his face and
-hear his voice, she must needs deal kindly by him.  My Michel--ah, it is
-a face for all men to trust and all women--"
-
-But she sighed and averted her head as though before prying eyes.
-
-The bell of Rozel Chapel broke gently on the evening air; the sound,
-softened by the leaves and mellowed by the wood of the great elm-trees,
-billowed away till it was lost in faint reverberation in the sea beneath
-the cliffs of the Couperon, where a little craft was coming to anchor in
-the dead water.
-
-At first the sound of the bell soothed her, softening the thought of the
-danger to Michel.  She moved with it towards the sea, the tones of her
-grief chiming with it.  Presently, as she went, a priest in cassock and
-robes and stole crossed the path in front of her, an acolyte before him
-swinging a censer, his voice chanting Latin verses from the service for
-the sick, in his hands the sacred elements of the sacrament for the
-dying.  The priest was fat and heavy, his voice was lazy, his eyes
-expressionless, and his robes were dirty.  The plaintive, peaceful
-sense which the sound of the vesper bell had thrown over Angele's sad
-reflections passed away, and the thought smote her that, were it not for
-such as this black-toothed priest, Michel would not now be on his way to
-England, a prisoner.  To her this vesper bell was the symbol of tyranny
-and hate.  It was fighting, it was martyrdom, it was exile, it was the
-Medici.  All that she had borne, all that her father had borne, the
-thought of the home lost, the mother dead before her time, the name
-ruined, the heritage dispossessed, the red war of the Camisards, the
-rivulets of blood in the streets of Paris and of her loved Rouen, smote
-upon her mind, and drove her to her knees in the forest glade, her hands
-upon her ears to shut out the sound of the bell.  It came upon her that
-the bell had said "Peace!  Peace!" to her mind when there should be no
-peace; that it had said "Be patient!" when she should be up and doing;
-that it had whispered "Stay!" when she should tread the path her lover
-trod, her feet following in his footsteps as his feet had trod in hers.
-
-She pressed her hands tight upon her ears and prayed with a passion and
-a fervour she had never known before.  A revelation seemed to come upon
-her, and, for the first time, she was a Huguenot to the core.  Hitherto
-she had suffered for her religion because it was her mother's broken
-life, her father's faith, and because they had suffered, and her lover
-had suffered.  Her mind had been convinced, her loyalty had been
-unwavering, her words for the great cause had measured well with her
-deeds.  But new senses were suddenly born in her, new eyes were given
-to her mind, new powers for endurance to her soul.  She saw now as the
-martyrs of Meaux had seen; a passionate faith descended on her as it had
-descended on them; no longer only patient, she was fain for action.
-Tears rained from her eyes.  Her heart burst itself in entreaty and
-confession.
-
-"Thy light shall be my light, and Thy will my will, O Lord," she cried at
-the last.  "Teach me Thy way, create a right spirit within me.  Give me
-boldness without rashness, and hope without vain thinking.  Bear up my
-arms, O Lord, and save me when falling.  A poor Samaritan am I.  Give me
-the water that shall be a well of water springing up to everlasting life,
-that I thirst not in the fever of doing.  Give me the manna of life to
-eat that I faint not nor cry out in plague, pestilence, or famine.  Give
-me Thy grace, O God, as Thou hast given it to Michel de la Foret, and
-guide my feet as I follow him in life and in death, for Christ's sake.
-Amen."
-
-As she rose from her knees she heard the evening gun from the castle of
-Mont Orgueil, whither Michel was being borne by the Queen's men.  The
-vesper bell had stopped.  Through the wood came the salt savour of the
-sea on the cool sunset air.  She threw back her head and walked swiftly
-towards it, her heart beating hard, her eyes shining with the light of
-purpose, her step elastic with the vigour of youth and health.  A
-quarter-hour's walking brought her to the cliff of the Couperon.
-
-As she gazed out over the sea, however, a voice in the bay below caught
-her ear.  She looked down.  On the deck of the little craft which had
-entered the harbour when the vesper bell was ringing stood a man who
-waved a hand up towards her, then gave a peculiar call.  She stared with
-amazement: it was Buonespoir the pirate.  What did this mean?  Had God
-sent this man to her, by his presence to suggest what she should do in
-this crisis in her life?  For even as she ran down the shore towards him,
-it came to her mind that Buonespoir should take her in his craft to
-England.
-
-What to do in England?  Who could tell?  She only knew that a voice
-called her to England, to follow the footsteps of Michel de la Foret, who
-even this night would be setting forth in the Governor's brigantine for
-London.
-
-Buonespoir met her upon the shore, grinning like a boy.
-
-"God save you, lady!" he said.
-
-"What brings you hither, friend?" she asked.
-
-If he had said that a voice had called him hither as one called her to
-England, it had not sounded strange; for she was not thinking that this
-was one who superstitiously swore by the little finger of St. Peter, but
-only that he was the man who had brought her Michel from France, who had
-been a faithful friend to her and to her father.
-
-"What brings me hither?"  Buonespoir laughed low in his chest.  "Even to
-fetch to the Seigneur of Rozel, a friend of mine by every token of
-remembrance, a dozen flagons of golden muscadella."
-
-To Angele no suggestion flashed that these flagons of muscadella had
-come from the cellar of the Seigneur of St. Ouen's, where they had been
-reserved for a certain royal visit.  Nothing was in her mind save the one
-thought-that she must follow Michel.
-
-"Will you take me to England?" she asked, putting a hand quickly on his
-arm.
-
-He had been laughing hard, picturing to himself what Lempriere of Rozel
-would say when he sniffed the flagon of St. Ouen's best wine, and for an
-instant he did not take in the question; but he stared at her now as the
-laugh slowly subsided through notes of abstraction and her words worked
-their way into his brain.
-
-"Will you take me, Buonespoir?" she urged.  "Take you--?" he questioned.
-
-"To England."
-
-"And myself to Tyburn?"
-
-"Nay, to the Queen."
-
-"'Tis the same thing.  Head of Abel!  Elizabeth hath heard of me.  The
-Seigneur of St. Ouen's and others have writ me down a pirate to her.  She
-would not pardon the muscadella," he added, with another laugh, looking
-down where the flagons lay.
-
-"She must pardon more than that," exclaimed Angele, and hastily she told
-him of what had happened to Michel de la Foret, and why she would go.
-
-"Thy father, then?" he asked, scowling hard in his attempt to think it
-out.
-
-"He must go with me--I will seek him now."
-
-"It must be at once, i' faith, for how long, think you, can I stay here
-unharmed?  I was sighted off St. Ouen's shore a few hours agone."
-
-"To-night?" she asked.
-
-"By twelve, when we shall have the moon and the tide," he answered.
-"But hold!" he hastily added.  "What, think you, could you and your
-father do alone in England?  And with me it were worse than alone.  These
-be dark times, when strangers have spies at their heels, and all
-travellers are suspect."
-
-"We will trust in God," she answered.
-
-"Have you money?" he questioned--"for London, not for me," he added
-hastily.
-
-"Enough," she replied.
-
-"The trust with the money is a weighty matter," he added; "but they
-suffice not.  You must have 'fending."
-
-"There is no one," she answered sadly, "no one save--"
-
-"Save the Seigneur of Rozel!" Buonespoir finished the sentence.  "Good.
-You to your father, and I to the Seigneur.  If you can fetch your father
-by your pot-of-honey tongue, I'll fetch the great Lempriere with
-muscadella.  Is't a bargain?"
-
-"In which I gain all," she answered, and again touched his arm with her
-finger-tips.
-
-"You shall be aboard here at ten, and I will join you on the stroke of
-twelve," he said, and gave a low whistle.
-
-At the signal three men sprang up like magic out of the bowels of the
-boat beneath them, and scurried over the side; three as ripe knaves as
-ever cheated stocks and gallows, but simple knaves, unlike their master.
-Two of them had served with Francis Drake in that good ship of his lying
-even now not far from Elizabeth's palace at Greenwich.  The third was a
-rogue who had been banished from Jersey for a habitual drunkenness which
-only attacked him on land--at sea he was sacredly sober.  His name was
-Jean Nicolle.  The names of the other two were Herve Robin and Rouge le
-Riche, but their master called them by other names.
-
-"Shadrach, Meshach, and Abednego," said Buonespoir in ceremony, and waved
-a hand of homage between them and Angele.  "Kiss dirt, and know where
-duty lies.  The lady's word on my ship is law till we anchor at the
-Queen's Stairs at Greenwich.  So, Heaven help you, Shadrach, Meshach, and
-Abednego!" said Buonespoir.
-
-A wave of humour passed over Angele's grave face, for a stranger quartet
-never sailed high seas together: one blind of an eye, one game of a leg,
-one bald as a bottle and bereft of two front teeth; but Buonespoir was
-sound of wind and limb, his small face with the big eyes lost in the
-masses of his red hair, and a body like Hercules.  It flashed through
-Angele's mind even as she answered the gurgling salutations of the
-triumvirate that they had been got together for no gentle summer sailing
-in the Channel.  Her conscience smote her that she should use such
-churls; but she gave it comfort by the thought that while serving her
-they could do naught worse; and her cause was good.  Yet they presented
-so bizarre an aspect, their ugliness was so varied and particular, that
-she almost laughed.  Buonespoir understood her thoughts, for with a look
-of mocking innocence in his great blue eyes he waved a hand again towards
-the graceless trio, and said, "For deep-sea fishing."  Then he solemnly
-winked at the three.
-
-A moment later Angele was speeding along the shore towards her home on
-the farther hillside up the little glen; and within an hour Buonespoir
-rolled from the dusk of the trees by the manor-house of Rozel and knocked
-at the door.  He carried on his head, as a fishwife carries a tray of
-ormers, a basket full of flagons of muscadella; and he did not lower the
-basket when he was shown into the room where the Seigneur of Rozel was
-sitting before a trencher of spiced veal and a great pot of ale.
-Lempriere roared a hearty greeting to the pirate, for he was in a sour
-humour because of the taking off of Michel de la Foret; and of all men
-this pirate-fellow, who had quips and cranks, and had played tricks on
-his cousin of St. Ouen's, was most welcome.
-
-"What's that on your teacup of a head?" he roared again as Buonespoir
-grinned pleasure at the greeting.  "Muscadella," said Buonespoir, and
-lowered the basket to the table.
-
-Lempriere seized a flagon, drew it forth, looked closely at it, then
-burst into laughter, and spluttered: "St. Ouen's muscadella, by the hand
-of Rufus!"
-
-Seizing Buonespoir by the shoulders, he forced him down upon a bench at
-the table, and pushed the trencher of spiced meat against his chest.
-"Eat, my noble lord of the sea and master of the cellar," he gurgled out,
-and, tipping the flagon of muscadella, took a long draught.  "God-a-
-mercy--but it has saved my life," he gasped in satisfaction as he lay
-back in his great chair, and put his feet on the bench whereon Buonespoir
-sat.
-
-They raised their flagons and toasted each other, and Lempriere burst
-forth into song, in the refrain of which Buonespoir joined boisterously:
-
-              "King Rufus he did hunt the deer,
-                 With a hey ho, come and kiss me, Dolly!
-               It was the spring-time of the year,
-                 Hey ho, Dolly shut her eyes!
-               King Rufus was a bully boy,
-               He hunted all the day for joy,
-               Sweet Dolly she was ever coy:
-                 And who would e'er be wise
-                 That looked in Dolly's eyes?
-
-               "King Rufus he did have his day,
-                 With a hey ho, come and kiss me, Dolly!
-               So get ye forth where dun deer play--
-                 Hey ho, Dolly comes again!
-               The greenwood is the place for me,
-               For that is where the dun deer be,
-               'Tis where my Dolly comes to me:
-                 And who would stay at home,
-                 That might with Dolly roam?
-               Sing hey ho, come and kiss me, Dolly!"
-
-Lempriere, perspiring with the exertion, mopped his forehead, then lapsed
-into a plaintive mood.
-
-"I've had naught but trouble of late," he wheezed.  "Trouble, trouble,
-trouble, like gnats on a filly's flank!" and in spluttering words, twice
-bracketed in muscadella, he told of Michel de la Foret's arrest, and of
-his purpose to go to England if he could get a boat to take him.
-
-"'Tis that same business brings me here," said Buonespoir, and forthwith
-told of his meeting with Angele and what was then agreed upon.
-
-"You to go to England!" cried Lempriere amazed.  "They want you for
-Tyburn there."
-
-"They want me for the gallows here," said Buonespoir.  Rolling a piece of
-spiced meat in his hand, he stuffed it into his mouth and chewed till the
-grease came out of his eyes, and took eagerly from a servant a flagon of
-malmsey and a dish of ormers.
-
-"Hush, chew thy tongue a minute!" said the Seigneur, suddenly starting
-and laying a finger beside his nose.  "Hush!" he said again, and looked
-into the flicker of the candle by him with half-shut eyes.
-
-"May I have no rushes for a bed, and die like a rat in a moat, if I don't
-get thy pardon too of the Queen, and bring thee back to Jersey, a thorn
-in the side of De Carteret for ever!  He'll look upon thee assoilzied by
-the Queen, spitting fire in his rage, and no canary or muscadella in his
-cellar."
-
-It came not to the mind of either that this expedition would be made at
-cost to themselves.  They had not heard of Don Quixote, and their gifts
-were not imitative.  They were of a day when men held their lives as
-lightly as many men hold their honour now; when championship was as the
-breath of life to men's nostrils, and to adventure for what was worth
-having or doing in life the only road of reputation.
-
-Buonespoir was as much a champion in his way as Lempriere of Rozel.
-They were of like kidney, though so far apart in rank.  Had Lempriere
-been born as low and as poor as Buonespoir, he would have been a pirate
-too, no doubt; and had Buonespoir been born as high as the Seigneur, he
-would have carried himself with the same rough sense of honour, with as
-ripe a vanity; have been as naive, as sincere, as true to the real heart
-of man untaught in the dissimulation of modesty or reserve.  When they
-shook hands across the trencher of spiced veal, it was as man shakes hand
-with man, not man with master.
-
-They were about to start upon their journey when there came a knocking at
-the door.  On its being opened the bald and toothless Abednego stumbled
-in with the word that immediately after Angele and her father came aboard
-the Honeyflower some fifty halberdiers suddenly appeared upon the
-Couperon.  They had at once set sail, and got away even before the
-sailors had reached the shore.  As they had rounded the point, where they
-were hid from view, Abednego dropped overboard and swam ashore on the
-rising tide, making his way to the manor to warn Buonespoir.  On his way
-hither, stealing through the trees, he had passed a half-score of
-halberdiers making for the manor, and he had seen others going towards
-the shore.
-
-Buonespoir looked to the priming of his pistols, and buckling his belt
-tightly about him, turned to the Seigneur and said: "I will take my
-chances with Abednego.  Where does she lie--the Honeyflower, Abednego?"
-
-"Off the point called Verclut," answered the little man, who had
-travelled with Francis Drake.
-
-"Good; we will make a run for it, flying dot-and-carry-one as we go."
-
-While they had been speaking the Seigneur had been thinking; and now,
-even as several figures appeared at a little distance in the trees,
-making towards the manor, he said, with a loud laugh:
-
-"No.  'Tis the way of a fool to put his head between the door and the
-jamb.  'Tis but a hundred yards to safety.  Follow me--to the sea--
-Abednego last.  This way, bullies!"
-
-Without a word all three left the house and walked on in the order
-indicated, as De Carteret's halberdiers ran forward threatening.
-
-"Stand!" shouted the sergeant of the halberdiers.  "Stand, or we fire!"
-
-But the three walked straight on unheeding.  When the sergeant of the
-men-at-arms recognised the Seigneur, he ordered down the blunderbusses.
-
-"We come for Buonespoir the pirate," said the sergeant.
-
-"Whose warrant?" said the Seigneur, fronting the halberdiers, Buonespoir
-and Abednego behind him.  "The Seigneur of St. Ouen's," was the reply.
-
-"My compliments to the Seigneur of St. Ouen's, and tell him that
-Buonespoir is my guest," he bellowed, and strode on, the halberdiers
-following.  Suddenly the Seigneur swerved towards the chapel and
-quickened his footsteps, the others but a step behind.  The sergeant of
-the halberdiers was in a quandary.  He longed to shoot, but dared not,
-and while he was making up his mind what to do, the Seigneur had reached
-the chapel door.  Opening it, he quickly pushed Buonespoir and Abednego
-inside, whispering to them, then slammed the door and put his back
-against it.
-
-There was another moment's hesitation on the sergeant's part, then a door
-at the other end of the chapel was heard to open and shut, and the
-Seigneur laughed loudly.  The halberdiers ran round the chapel.  There
-stood Buonespoir and Abednego in a narrow roadway, motionless and
-unconcerned.  The halberdiers rushed forward.
-
-"Perquage!  Perquage!  Perquage!" shouted Buonespoir, and the bright
-moonlight showed him grinning.  For an instant there was deadly
-stillness, in which the approaching footsteps of the Seigneur sounded
-loud.
-
-"Perquage!" Buonespoir repeated.
-
-"Perquage!  Fall back!" said the Seigneur, and waved off the pikes of
-the halberdiers.  "He has sanctuary to the sea."
-
-This narrow road in which the pirates stood was the last of three in the
-Isle of Jersey running from churches to the sea, in which a criminal was
-safe from arrest by virtue of an old statute.  The other perquages had
-been taken away; but this one of Rozel remained, a concession made by
-Henry VIII to the father of this Raoul Lempriere.  The privilege had been
-used but once in the present Seigneur's day, because the criminal must be
-put upon the road from the chapel by the Seigneur himself, and he had
-used his privilege modestly.
-
-No man in Jersey but knew the sacredness of this perquage, though it was
-ten years since it had been used; and no man, not even the Governor
-himself, dare lift his hand to one upon that road.
-
-So it was that Buonespoir and Abednego, two fugitives from justice,
-walked quietly to the sea down the perquage, halberdiers, balked of their
-prey, prowling on their steps and cursing the Seigneur of Rozel for his
-gift of sanctuary: for the Seigneur of St. Ouen's and the Royal Court had
-promised each halberdier three shillings and all the ale he could drink
-at a sitting, if Buonespoir was brought in alive or dead.
-
-In peace and safety the three boarded the Honeyflower off the point
-called Verclut, and set sail for England, just seven hours after Michel
-de la Foret had gone his way upon the Channel, a prisoner.
-
-
-
-
-CHAPTER VII
-
-A fortnight later, of a Sunday morning, the Lord Chamberlain of England
-was disturbed out of his usual equanimity.  As he was treading the rushes
-in the presence-chamber of the Royal Palace at Greenwich, his eye busy in
-inspection--for the Queen would soon pass on her way to chapel--his head
-nodding right and left to archbishop, bishop, councillors of state,
-courtiers, and officers of the crown, he heard a rude noise at the door
-leading into the ante-chapel, where the Queen received petitions from the
-people.  Hurrying thither in shocked anxiety, he found a curled gentleman
-of the guard, resplendent in red velvet and gold chains, in peevish
-argument with a boisterous Seigneur of a bronzed good-humoured face, who
-urged his entrance to the presence-chamber.
-
-The Lord Chamberlain swept down upon the pair like a flamingo with wings
-outspread.  "God's death, what means this turmoil?  Her Majesty comes
-hither!" he cried, and scowled upon the intruder, who now stepped back a
-little, treading on the toes of a huge sailor with a small head and bushy
-red hair and beard.
-
-"Because her Majesty comes I come also," the Seigneur interposed grandly.
-
-"What is your name and quality?"
-
-"Yours first, and I shall know how to answer."
-
-"I am the Lord Chamberlain of England."
-
-"And I, my lord, am Lempriere, Seigneur of Rozel--and butler to the
-Queen."
-
-"Where is Rozel?" asked my Lord Chamberlain.
-
-The face of the Seigneur suddenly flushed, his mouth swelled, and then
-burst.
-
-"Where is Rozel!" he cried in a voice of rage.  "Where is Rozel!  Have
-you heard of Hugh Pawlett," he asked, with a huge contempt--" of Governor
-Hugh Pawlett?"  The Lord Chamberlain nodded.  "Then ask his Excellency
-when next you see him, Where is Rozel?  But take good counsel and keep
-your ignorance from the Queen," he added.  "She has no love for stupids."
-"You say you are butler to the Queen?  Whence came your commission?"
-said the Lord Chamberlain, smiling now; for Lempriere's words and ways
-were of some simple world where odd folk lived, and his boyish vanity
-disarmed anger.
-
-"By royal warrant and heritage.  And of all of the Jersey Isle, I only
-may have dove-totes, which is the everlasting thorn in the side of De
-Carteret of St. Ouen's.  Now will you let me in, my lord?" he said, all
-in a breath.
-
-At a stir behind him the Lord Chamberlain turned, and with a horrified
-exclamation hurried away, for the procession from the Queen's apartments
-had already entered the presence-chamber: gentlemen, barons, earls,
-knights of the garter, in brave attire, with bare heads and sumptuous
-calves.  The Lord Chamberlain had scarce got to his place when the
-Chancellor, bearing the seals in a red silk purse, entered, flanked by
-two gorgeous folk with the royal sceptre and the sword of state in a red
-scabbard, all flourished with fleur-de-lis.  Moving in and out among them
-all was the Queen's fool, who jested and shook his bells under the noses
-of the highest.
-
-It was an event of which the Seigneur of Rozel told to his dying day:
-that he entered the presence-chamber of the Royal Palace of Greenwich at
-the same instant as the Queen--"Rozel at one end, Elizabeth at the other,
-and all the world at gaze," he was wont to say with loud guffaws.  But
-what he spoke of afterwards with preposterous ease and pride was neither
-pride nor ease at the moment; for the Queen's eyes fell on him as he
-shoved past the gentlemen who kept the door.  For an instant she stood
-still, regarding him intently, then turned quickly to the Lord
-Chamberlain in inquiry, and with sharp reproof too in her look.  The Lord
-Chamberlain fell on his knee and with low uncertain voice explained the
-incident.
-
-Elizabeth again cast her eyes towards Lempriere, and the Court, following
-her example, scrutinised the Seigneur in varied styles of insolence or
-curiosity.  Lempriere drew himself up with a slashing attempt at
-composure, but ended by flaming from head to foot, his face shining like
-a cock's comb, the perspiration standing out like beads upon his
-forehead, his eyes gone blind with confusion.  That was but for a moment,
-however, and then, Elizabeth's look being slowly withdrawn from him, a
-curious smile came to her lips, and she said to the Lord Chamberlain:
-"Let the gentleman remain."
-
-The Queen's fool tripped forward and tapped the Lord Chamberlain on the
-shoulder.  "Let the gentleman remain, gossip, and see you that remaining
-he goeth not like a fly with his feet in the porridge."  With a flippant
-step before the Seigneur, he shook his bells at him.  "Thou shalt stay,
-Nuncio, and staying speak the truth.  So doing you shall be as noted as a
-comet with three tails.  You shall prove that man was made in God's
-image.  So lift thy head and sneeze--sneezing is the fashion here; but
-see that thou sneeze not thy head off as they do in Tartary.  'Tis worth
-remembrance."
-
-Rozel's self-importance and pride had returned.  The blood came back
-to his heart, and he threw out his chest grandly; he even turned to
-Buonespoir, whose great figure might be seen beyond the door, and winked
-at him.  For a moment he had time to note the doings of the Queen and her
-courtiers with wide-eyed curiosity.  He saw the Earl of Leicester,
-exquisite, haughty, gallant, fall upon his knee, and Elizabeth slowly
-pull off her glove and with a none too gracious look give him her hand
-to kiss, the only favour of the kind granted that day.  He saw Cecil, her
-Minister, introduce a foreign noble, who presented his letters.  He heard
-the Queen speak in a half-dozen different languages, to people of various
-lands, and he was smitten with amazement.
-
-But as Elizabeth came slowly down the hall, her white silk gown fronted
-with great pearls flashing back the light, a marchioness bearing the
-train, the crown on her head glittering as she turned from right to left,
-her wonderful collar of jewels sparkling on her uncovered bosom, suddenly
-the mantle of black, silver-shotted silk upon her shoulders became to
-Lempriere's heated senses a judge's robe, and Elizabeth the august judge
-of the world.  His eyes blinded again, for it was as if she was bearing
-down upon him.  Certainly she was looking at him now, scarce heeding the
-courtiers who fell to their knees on either side as she came on.  The red
-doublets of the fifty Gentlemen Pensioners--all men of noble families
-proud to do this humble yet distinguished service--with battle-axes, on
-either side of her, seemed to Lempriere on the instant like an army with
-banners threatening him.  From the ante-chapel behind him came the cry of
-the faithful subjects who, as the gentleman-at-arms fell back from the
-doorway, had but just caught a glimpse of her Majesty--"Long live
-Elizabeth!"
-
-It seemed to Lempriere that the Gentlemen Pensioners must beat him down
-as they passed, yet he stood riveted to the spot; and indeed it was true
-that he was almost in the path of her Majesty.  He was aware that two
-gentlemen touched him on the shoulder and bade him retire; but the Queen
-motioned to them to desist.  So, with the eyes of the whole court on him
-again, and Elizabeth's calm curious gaze fixed, as it were, on his
-forehead, he stood still till the flaming Gentlemen Pensioners were
-within a few feet of him, and the battle-axes were almost over his head.
-
-The great braggart was no better now than a wisp of grass in the wind,
-and it was more than homage that bent him to his knees as the Queen
-looked him full in the eyes.  There was a moment's absolute silence, and
-then she said, with cold condescension:
-
-"By what privilege do you seek our presence?"
-
-"I am Raoul Lempriere, Seigneur of Rozel, your high Majesty," said the
-choking voice of the Jerseyman.  The Queen raised her eyebrows.  "The man
-seems French.  You come from France?"
-
-Lempriere flushed to his hair--the Queen did not know him, then!  "From
-Jersey Isle, your sacred Majesty."
-
-"Jersey Isle is dear to us.  And what is your warrant here?"
-
-"I am butler to your Majesty, by your gracious Majesty's patent, and I
-alone may have dove-cotes in the isle; and I only may have the perquage-
-on your Majesty's patent.  It is not even held by De Carteret of St.
-Ouen's."
-
-The Queen smiled as she had not smiled since she entered the presence-
-chamber.  "God preserve us," she said--"that I should not have recognised
-you!  It is, of course, our faithful Lempriere of Rozel."
-
-The blood came back to the Seigneur's heart, but he did not dare look up
-yet, and he did not see that Elizabeth was in rare mirth at his words;
-and though she had no ken or memory of him, she read his nature and was
-mindful to humour him.  Beckoning Leicester to her side, she said a few
-words in an undertone, to which he replied with a smile more sour than
-sweet.
-
-"Rise, Monsieur of Rozel," she said.
-
-The Seigneur stood up, and met her gaze faintly.  "And so, proud
-Seigneur, you must needs flout e'en our Lord Chamberlain, in the name of
-our butler with three dove-cotes and the perquage.  In sooth thy office
-must not be set at naught lightly--not when it is flanked by the
-perquage.  By my father's doublet, but that frieze jerkin is well cut;
-it suits thy figure well--I would that my Lord Leicester here had such a
-tailor.  But this perquage--I doubt not there are those here at Court who
-are most ignorant of its force and moment.  My Lord Chamberlain, my Lord
-Leicester, Cecil here--confusion sits in their faces.  The perquage,
-which my father's patent approved, has served us well, I doubt not, is a
-comfort to our realm and a dignity befitting the wearer of that frieze
-jerkin.  Speak to their better understanding, Monsieur of Rozel."
-
-"Speak, Nuncio, and you shall have comforts, and be given in marriage,
-multiple or singular, even as I," said the fool, and touched him on the
-breast with his bells.
-
-Lempriere had recovered his heart, and now was set full sail in the
-course he had charted for himself in Jersey.  In large words and larger
-manner he explained most innocently the sacred privilege of perquage.
-"And how often have you used the right, friend?" asked Elizabeth.
-
-"But once in ten years, your noble Majesty."  "When last?"
-
-"But yesterday a week, your universal Majesty."  Elizabeth raised her
-eyebrows.  "Who was the criminal, what the occasion?"
-
-"The criminal was one Buonespoir, the occasion our coming hither to wait
-upon the Queen of England and our Lady of Normandy, for such is your
-well-born Majesty to your loyal Jersiais."  And thereupon he plunged into
-an impeachment of De Carteret of St. Ouen's, and stumbled through a blunt
-broken story of the wrongs and the sorrows of Michel and Angele and the
-doings of Buonespoir in their behalf.
-
-Elizabeth frowned and interrupted him.  "I have heard of this Buonespoir,
-Monsieur, through others than the Seigneur of St. Ouen's.  He is an
-unlikely squire of dames.  There's a hill in my kingdom has long bided
-his coming.  Where waits the rascal now?"
-
-"In the ante-chapel, your Majesty."
-
-"By the rood!" said Elizabeth in sudden amazement.  "In my ante-chapel,
-forsooth!"
-
-She looked beyond the doorway and saw the great red-topped figure of
-Buonespoir, his good-natured, fearless fare, his shock of hair, his clear
-blue eye--he was not thirty feet away.
-
-"He comes to crave pardon for his rank offences, your benignant Majesty,"
-said Lempriere.
-
-The humour of the thing rushed upon the Queen.  Never before were two
-such naive folk at court.  There was not a hair of duplicity in the heads
-of the two, and she judged them well in her mind.
-
-"I will see you stand together--you and your henchman," she said to
-Rozel, and moved on to the antechapel, the Court following.  Standing
-still just inside the doorway, she motioned Buonespoir to come near.  The
-pirate, unconfused, undismayed, with his wide blue asking eyes, came
-forward and dropped upon his knees.  Elizabeth motioned Lempriere to
-stand a little apart.
-
-Thereupon she set a few questions to Buonespoir, whose replies,
-truthfully given, showed that he had no real estimate of his crimes, and
-was indifferent to what might be their penalties.  He had no moral sense
-on the one hand, on the other, no fear.
-
-Suddenly she turned to Lempriere again.  "You came, then, to speak for
-this Michel de la Foret, the exile--?"
-
-"And for the demoiselle Angele Aubert, who loves him, your Majesty."
-
-"I sent for this gentleman exile a fortnight ago--" She turned towards
-Leicester inquiringly.
-
-"I have the papers here, your Majesty," said Leicester, and gave a packet
-over.
-
-"And where have you De la Foret?" said Elizabeth.  "In durance, your
-Majesty."
-
-"When came he hither?"
-
-"Three days gone," answered Leicester, a little gloomily, for there was
-acerbity in Elizabeth's voice.  Elizabeth seemed about to speak, then
-dropped her eyes upon the papers, and glanced hastily at their contents.
-
-"You will have this Michel de la Foret brought to my presence as fast as
-horse can bring him, my Lord," she said to Leicester.  "This rascal of
-the sea--Buonespoir--you will have safe bestowed till I recall his
-existence again," she said to a captain of men-at-arms; "and you,
-Monsieur of Rozel, since you are my butler, will get you to my dining-
-room, and do your duty--the office is not all perquisites," she added
-smoothly.  She was about to move on, when a thought seemed to strike her,
-and she added, "This Mademoiselle and her father whom you brought hither-
-where are they?"
-
-"They are even within the palace grounds, your imperial Majesty,"
-answered Lempriere.
-
-"You will summon them when I bid you," she said to the Seigneur; "and you
-shall see that they have comforts and housing as befits their station,"
-she added to the Lord Chamberlain.
-
-So did Elizabeth, out of a whimsical humour, set the highest in the land
-to attend upon unknown, unconsidered exiles.
+Volume 6.
 
+
+
+L.        THE PASSION PLAY AT CHAUDIERE
+LI.       FACE TO FACE
+LII.      THE COMING OF BILLY
+LIII.     THE SEIGNEUR AND THE CURE HAVE A SUSPICION
+LIV.      M. ROSSIGNOL SLIPS THE LEASH
+LV.       ROSALIE PLAYS A PART
+LVI.      MRS. FLYNN SPEAKS
+LVII.     A BURNING FIERY FURNACE
+LVIII.    WITH HIS BACK TO THE WALL
+LIX.      IN WHICH CHARLEY MEETS A STRANGER
+LX.       THE HAND AT THE DOOR
+LXI.      THE CURE SPEAKS
+EPILOGUE
+
+
+
+CHAPTER L
+
+THE PASSION PLAY AT CHAUDIERE
+
+For the first time in its history Chaudiere was becoming notable in the
+eyes of the outside world.
+
+"We'll have more girth after this," said Filion Lacasse the saddler to
+the wife of the Notary, as, in front of the post-office, they stood
+watching a little cavalcade of habitants going up the road towards Four
+Mountains to rehearse the Passion Play.
+
+"If Dauphin's advice had been taken long ago, we'd have had a hotel at
+Four Mountains, and the city folk would be coming here for the summer,"
+said Madame Dauphin, with a superior air.
+
+"Pish!" said a voice behind them.  It was the Seigneur's groom, with a
+straw in his mouth.  He had a gloomy mind.
+
+"There isn't a house but has two or three boarders.  I've got three,"
+said Filion Lacasse.  "They come tomorrow."
+
+"We'll have ten at the Manor.  But no good will come of it," said the
+groom.
+
+"No good!  Look at the infidel tailor!" said Madame Dauphin.  "He
+translated all the writing.  He drew all the dresses, and made a hundred
+pictures--there they are at the Cure's house."
+
+"He should have played Judas," said the groom malevolently.  "That'd be
+right for him."
+
+"Perhaps you don't like the Passion Play," said Madame Dauphin
+disdainfully.
+
+"We ain't through with it yet," said the death's-head groom.
+
+"It is a pious and holy mission," said Madame Dauphin.  "Even that Jo
+Portugais worked night and day till he went away to Montreal, and he
+always goes to Mass now.  He's to take Pontius Pilate when he comes back.
+Then look at Virginie Morrissette, that put her brother's eyes out
+quarrelling--she's to play Mary Magdalene."
+
+"I could fit the parts better," said the groom.
+
+"Of course.  You'd have played St. John," said the saddler--" or, maybe,
+Christus himself!"
+
+"I'd have Paulette Dubois play Mary the sinner."
+
+"Magdalene repented, and knelt at the foot of the cross.  She was sorry
+and sinned no more," said the Notary's wife in querulous reprimand.
+
+"Well, Paulette does all that," said the stolid, dark-visaged groom.
+
+Filion Lacasse's ears pricked up.  "How do you know--she hasn't come
+back?"
+
+"Hasn't she, though!  And with her child too--last night."
+
+"Her child!"  Madame Dauphin was scandalised and amazed.
+
+The groom nodded.  "And doesn't care who knows it.  Seven years old, and
+as fine a child as ever was!"
+
+"Narcisse--Narcisse!" called Madame Dauphin to her husband, who was
+coming up the street.  She hastily repeated the groom's news to him.
+
+The Notary stuck his hand between the buttons of his waistcoat.  "Well,
+well, my dear Madame," he said consequentially, "it is quite true."
+
+"What do you know about it--whose child is it?" she asked, with curdling
+scorn.
+
+"'Sh-'sh!" said the Notary.  Then, with an oratorical wave of his free
+hand: "The Church opens her arms to all--even to her who sinned much
+because she loved much, who, through woful years, searched the world for
+her child and found it not--hidden away, as it was, by the duplicity of
+sinful man"--and so on through tangled sentences, setting forth in broken
+terms Paulette Dubois's life.
+
+"How do you know all about it?" asked the saddler.  "I've known it for
+years," said the Notary grandly--stoutly too, for he would freely risk
+his wife's anger that the vain-glory of the moment might be enlarged.
+
+"And you keep it even from madame!" said the saddler, with a smile too
+broad to be sarcastic.  "Tiens!  if I did that, my wife'd pick my eyes
+out with a bradawl."
+
+"It was a professional secret," said the Notary, with a desperate resolve
+to hold his position.
+
+"I'm going home, Dauphin--are you coming?" questioned his wife, with an
+air.
+
+"You will remain, and hear what I've got to say.  This Paulette Dubois--
+she should play Mary Magdalene, for--"
+
+"Look--look, what's that?" said the saddler.  He pointed to a wagon
+coming slowly up the road.  In front of it a team of dogs drew a cart.
+It carried some thing covered with black.  "It's a funeral!  There's the
+coffin.  It's on Jo Portugais' little cart," added Filion Lacasse.
+
+"Ah, God be merciful, it's Rosalie Evanturel and Mrs. Flynn!  And M'sieu'
+Evanturel in the coffin!" said Madame Dauphin, running to the door of
+the postoffice to call the Cure's sister.
+
+"There'll be use enough for the baker's Dead March now," remarked M.
+Dauphin sadly, buttoning up his coat, taking off his hat, and going
+forward to greet Rosalie.  As he did so, Charley appeared in the doorway
+of his shop.
+
+"Look, Monsieur," said the Notary.  "This is the way Rosalie Evanturel
+comes home with her father."
+
+"I will go for the Cure" Charley answered, turning white.  He leaned
+against the doorway for a moment to steady himself, then hurried up the
+street.  He did not dare meet Rosalie, or go near her yet.  For her sake
+it was better not.
+
+"That tailor infidel has a heart.  His eyes were leaking," said the
+Notary to Filion Lacasse, and went on to meet the mournful cavalcade.
+
+
+
+
+CHAPTER LI
+
+FACE TO FACE
+
+"If I could only understand!"--this was Rosalie's constant cry in these
+weeks wherein she lay ill and prostrate after her father's burial.  Once
+and once only had she met Charley alone, though she knew that he was
+keeping watch over her.  She had first seen him the day her father was
+buried, standing apart from the people, his face sorrowful, his eyes
+heavy, his figure bowed.
+
+The occasion of their meeting alone was the first night of her return,
+when the Notary and Charley had kept watch beside her father's body.
+
+She had gone into the little hallway, and had looked into the room of
+death.  The Notary was sound asleep in his arm-chair, but Charley sat
+silent and moveless, his eyes gazing straight before him.  She murmured
+his name, and though it was only to herself, not even a whisper, he got
+up quickly and came to the hall, where she stood grief-stricken, yet with
+a smile of welcome, of forgiveness, of confidence.  As she put out her
+hand to him, and his swallowed it, she could not but say to him--so
+contrary is the heart of woman, so does she demand a Yes by asserting a
+No, and hunger for the eternal assurance--she could not but say:
+
+"You do not love me--now."
+
+It was but a whisper, so faint and breathless that only the heart of love
+could hear it.  There was no answer in words, for some one was stirring
+beyond Rosalie in the dark, and a great figure heaved through the kitchen
+doorway, but his hand crushed hers in his own; his heart said to her, "My
+love is an undying light; it will not change for time or tears"--the
+words they had read together in a little snuff-coloured book on the
+counter in the shop one summer day a year ago.  The words flashed into
+his mind, and they were carried to hers.  Her fingers pressed his, and
+then Charley said, over her shoulder, to the approaching Mrs. Flynn: "Do
+not let her come again, Madame.  She should get some sleep," and he put
+her hand in Mrs. Flynn's.  "Be good to her, as you know how, Mrs. Flynn,"
+he added gently.
+
+He had won the heart of Mrs. Flynn that moment, and it may be she had a
+conviction or an inspiration, for she said, in a softer voice than she
+was wont to use to any one save Rosalie:
+
+"I'll do by her as you'd do by your own, sir," and tenderly drew Rosalie
+to her own room.
+
+Such had been their first meeting after her return.  Afterwards she was
+taken ill, and the torture of his heart drove him out into the night, to
+walk the road and creep round her house like a sentinel, Mrs. Flynn's
+words ringing in his ears to reproach him--"I'll do by her as you would
+do by your own, sir."  Night after night it was the same, and Rosalie
+heard his footsteps and listened and was less sorrowful, because she knew
+that she was ever in his thoughts.  But one day Mrs. Flynn came to him in
+his shop.
+
+"She's wantin' a word with ye on business," she said, and gestured
+towards the little house across the way.  "'Tis few words ye do be
+shpakin' to annybody, but if y' have kind words to shpake and good things
+to say, y' naidn't be bitin' yer tongue," she added in response to his
+nod, and left him.
+
+Charley looked after her with a troubled face.  On the instant it seemed
+to him that Mrs. Flynn knew all.  But his second thought told him that it
+was only an instinct on her part that there was something between them--
+the beginning of love, maybe.
+
+In another half-hour he was beside Rosalie's chair.  "Perhaps you are
+angry," she said, as he came towards her where she sat in the great arm-
+chair.  She did not give him time to answer, but hurried on.  "I wanted
+to tell you that I have heard you every night outside, and that I have
+been glad, and sorry too--so sorry for us both."
+
+"Rosalie!  Rosalie" he said hoarsely, and dropped on a knee beside her
+chair, and took her hand and kissed it.  He did not dare do more.
+
+"I wanted to say to you," she said, dropping a hand on his shoulder,
+"that I do not blame you for anything--not for anything.  Yet I want you
+to be sorry too.  I want you to feel as sorry for me as I feel sorry for
+you."
+
+"I am the worst man and you the best woman in the world."
+
+She leaned over him with tears in her eyes.  "Hush!" she said.  "I want
+to help you--Charles.  You are wise.  You know ten thousand things more
+than I; but I know one thing you do not understand."
+
+"You know and do whatever is good," he said brokenly.
+
+"Oh, no, no, no!  But I know one thing, because I have been taught, and
+because it was born with me.  Perhaps much was habit with me in the past,
+but now I know that one thing is true.  It is God."
+
+She paused.  "I have learned so much since--since then."
+
+He looked up with a groan, and put a finger on her lips.  "You are
+feeling bitterly sorry for me," she said.  "But you must let me speak--
+that is all I ask.  It is all love asks.  I cannot bear that you should
+not share my thoughts.  That is the thing that has hurt--hurt so all
+these months, these long hard months, when I could not see you, and did
+not know why I could not.  Don't shake so, please!  Hear me to the end,
+and we shall both be the better after.  I felt it all so cruelly, because
+I did not--and I do not--understand.  I rebelled, but not against you.
+I rebelled against myself, against what you called Fate.  Fate is one's
+self, what one brings on one's self.  But I had faith in you--always--
+always, even when I thought I hated you."
+
+"Ah, hate me!  Hate me!  It is your loving that cuts me to the quick," he
+said.  "You have the magnanimity of God."
+
+Her eyes leapt up.  "'Of God'--you believe in God!" she said eagerly.
+"God is God to you?  He is the one thing that has come out of all this to
+me."  She reached out her hand and took her Bible from a table.  "Read
+that to yourself," she said, and, opening the Book, pointed to a passage.
+He read it:
+
+     And they heard the voice of the Lord God walking in the garden in
+     the cool of the day: and Adam and his wife hid themselves from the
+     presence of the Lord God amongst the trees of the garden.
+
+     And the Lord God called unto Adam, and said unto him, Where art
+     thou?
+
+     And he said, I heard Thy voice in the garden, and I was afraid,
+     because I was naked; and I hid myself.
+
+     And He said, Who told thee that thou wart naked?  Hast thou eaten of
+     the tree whereof I commanded thee that thou shouldest not eat?
+
+Closing the Book, Charley said: "I understand--I see."
+
+"Will you say a prayer with me?" she urged.  "It is all I ask.  It is
+the only--the only thing I want to hurt you, because it may make you
+happier in the end.  What keeps us apart, I do not know.  But if you will
+say one prayer with me, I will keep on trusting, I will never complain,
+and I will wait--wait."
+
+He kissed both her hands, but the look in his eyes was that of a man
+being broken on the wheel.  She slipped to the floor, her rosary in her
+fingers.  "Let us pray," she said simply, and in a voice as clear as a
+child's, but with the anguish of a woman's struggling heart behind.
+
+He did not move.  She looked at him, caught his hands in both of hers,
+and cried: "But you will not deny me this!  Haven't I the right to ask
+it?  Haven't I a right to ask of you a thousand times as much?"
+
+"You have the right to ask all that is mine to give life, honour, my body
+in pieces inch by inch, the last that I can call my own.  But, Rosalie,
+this is not mine to give!  How can I pray, unless I believe!"
+
+"You do--oh, you do believe in God," she cried passionately.
+
+"Rosalie--my life," he urged, hoarse misery in his voice, "the only thing
+I have to give you is the bare soul of a truthful man--I am that now at
+least.  You have made me so.  If I deceived the whole world, if I was as
+the thief upon the cross, I should still be truthful to you.  You open
+your heart to me--let me open mine to you, to see it as it is.  Once
+my soul was like a watch, cased and carried in the pocket of life,
+uncertain, untrue, because it was a soul made, not born.  I must look at
+the hands to know the time, and because it varied, because the working
+did not answer to the absolute, I said: 'The soul is a lie.'  You--you
+have changed all that, Rosalie.  My soul now is like a dial to the sun.
+But the clouds are there above, and I do not know what time it is in
+life.  When the clouds break--if they ever break--and the sun shines, the
+dial will speak the truth, the whole truth, and nothing but the truth--"
+
+He paused, confused, for he had repeated the words of a witness taking
+the oath in court.
+
+"'So help me God!"' she finished the oath for him.  Then, with a sudden
+change of manner, she came to her feet with a spring.  She did not quite
+understand.  She was, however, dimly conscious of the power she had over
+his chivalrous mind: the power of the weak over the strong--the tyranny
+of the defended over the defender.  She was a woman tortured beyond
+bearing; and she was fighting for her very life, mad with anguish as she
+struggled.
+
+"I do not understand you," she cried, with flashing eyes.  "One minute
+you say you do not believe in anything, and the next you say, 'So help me
+God!'"
+
+"Ah, no, you said that, Rosalie," he interposed gently.
+
+"You said I was as magnanimous as God.  You were laughing at me then,
+mocking me, whose only fault is that I loved and trusted you.  In the
+wickedness of your heart you robbed me of happiness, you--"
+
+"Don't--don't!  Rosalie!  Rosalie!" he exclaimed in shrinking protest.
+
+That she had spoken to him as her deepest heart abhorred only increased
+her agitated denunciation.  "Yes, yes, in your mad selfishness, you did
+not care for the poor girl who forgot all, lost all, and now--" She
+stopped short at the sight of his white, awe stricken face.  His eye-
+glass seemed like a frost of death over an eye that looked upon some
+shocking scene of woe.  Yet he appeared not to see, for his fingers
+fumbled on his waistcoat for the monocle--fumbled--vaguely, helplessly.
+It was the realisation of a soul cast into the outer darkness.  Her
+abrupt silence came upon him like the last engulfing wave to a drowning
+man--the final assurance of the end, in which there is quiet and the
+deadly smother.
+
+"Now--I know-the truth!" he said, in a curious even tone, different from
+any she had ever heard from him.  It was the old Charley Steele who
+spoke, the Charley Steele in whom the intellect was supreme once more.
+The judicial spirit, the inveterate intelligence which put justice before
+all, was alive in him, almost rejoicing in its regained governance.  The
+new Charley was as dead as the old had been of late, and this clarifying
+moment left the grim impression behind that the old law was not obsolete.
+He felt that in the abandonment of her indignation she had mercilessly
+told the truth; and the irreducible quality of mind in him which in the
+old days made for justice, approved.  There was a new element now,
+however--that conscience which never possessed him fully until the day he
+saw Rosalie go travelling over the hills with her crippled father.  That
+picture of the girl against the twilight, her figure silhouetted in the
+clear air, had come to him in sleeping and waking dreams, the type and
+sign of an everlasting melancholy.  As he looked at her blindly now, he
+saw, not herself, but that melancholy figure.  Out of the distance his
+own voice said again:
+
+"Now--I know-the truth!"
+
+She had struck with a violence she did not intend, which, she knew, must
+rend her own heart in the future, which put in the dice-box the last
+hopes she had.  But she could not have helped it--she could not have
+stayed the words, though a suspended sword were to fall with the saying.
+It was the cry of tradition and religion, and every home-bred, convent-
+nurtured habit, the instinct of heredity, the wail of woman, for whom
+destiny, or man, or nature, has arranged the disproportionate share of
+life's penalties.  It was the impotent rebellion against the first curse,
+that man in his punishment should earn his bread by the sweat of his
+brow--which he might do with joy--while the woman must work out her
+ordained sentence "in sorrow all the days of her life."
+
+In her bitter words was the inherent revolt of the race of woman.  But
+now she suddenly felt that she had flung him an infinite distance from
+her; that she had struck at the thing she most cherished--his belief that
+she loved him; that even if she had told the truth--and she felt she had
+not--it was not the truth she wished him most to feel.
+
+For an instant she stood looking at him, shocked and confounded, then her
+changeless love rushed back on her, the maternal and protective spirit
+welled up, and with a passionate cry she threw herself in the chair again
+in very weakness, with outstretched hands, saying:
+
+"Forgive me--oh, forgive me!  I did not mean it--oh, forgive your
+Rosalie!"
+
+Stooping over her, he answered:
+
+"It is good for me to know the whole truth.  What hurts you may give me
+will pass--for life must end, and my life cannot be long enough to pay
+the price of the hurts I have given you.  I could bear a thousand--one
+for every hour--if they could bring back the light to your eye, the joy
+to your heart.  Could prayer, do you think, make me sorrier than I am?
+I have hurt what I would have spared from hurt at the cost of my life--
+and all the lives in all the world!" he added fiercely.
+
+"Forgive me--oh, forgive your Rosalie!" she pleaded.  "I did not know
+what I was saying--I was mad."
+
+"It was all so sane and true," he said, like one who, on the brink of
+death, finds a satisfaction in speaking the perfect truth.  "I am glad to
+hear the truth--I have been such a liar."
+
+She looked up startled, her tears blinding her.  "You have not deceived
+me?" she asked bitterly.  "Oh, you have not deceived me--you have loved
+me, have you not?"  It was that which mattered, that only.  Moveless and
+eager, she looked--looked at him, waiting, as it were, for sentence.
+
+"I never lied to you, Rosalie--never!" he answered, and he touched her
+hand.
+
+She gave a moan of relief at his words.  "Oh, then, oh, then .  .  .  "
+she said, in a low voice, and the tears in her eyes dried away.
+
+"I meant that until I knew you, I kept deceiving myself and others all my
+life--"
+
+"But without knowing it?" she said eagerly.
+
+"Perhaps, without quite knowing it."
+
+"Until you knew me?" she asked, in quick, quivering tones.
+
+"Till I knew you," he answered.
+
+"Then I have done you good--not ill?" she asked, with painful
+breathlessness.
+
+"The only good there may be in me is you, and you only," he said, and he
+choked something rising in his throat, seeing the greatness of her heart,
+her dear desire to have entered into his life to his own good.  He would
+have said that there was no good in him at all, but that he wished to
+comfort her.
+
+A little cry of joy broke from her lips.  "Oh, that--that!" she cried,
+with happy tears.  "Won't you kiss me now?" she added softly.
+
+He clasped her in his arms, and though his eyes were dry, his heart wept
+tears of blood.
+
+
+
+
+CHAPTER LII
+
+THE COMING OF BILLY
+
+Chaudiere had made--and lost--a reputation.  The Passion Play in the
+valley had become known to a whole country--to the Cure's and the
+Seigneur's unavailing regret.  They had meant to revive the great story
+for their own people and the Indians--a homely, beautiful object-lesson,
+in an Eden--like innocence and quiet and repose; but behold the world had
+invaded them!  The vanity of the Notary had undone them.  He had written
+to the great papers of the province, telling of the advent of the play,
+and pilgrimages had been organised, and excursions had been made to the
+spot, where a simple people had achieved a crude but noble picture of the
+life and death of the Hero of Christendom.  The Cure viewed with
+consternation the invasion of their quiet.  It was no longer his own
+Chaudiere; and when, on a Sunday, his dear people were jostled from the
+church to make room for strangers, his gentle eloquence seemed to forsake
+him, he spoke haltingly, and his intoning of the Mass lacked the old
+soothing simplicity.
+
+"Ah, my dear Seigneur!" he said, on the Sunday before the playing was to
+end, "we have overshot the mark."
+
+The Seigneur nodded and turned his head away.  "There is an English play
+which says, 'I have shot mine arrow o'er the house and hurt my brother.'
+That's it--that's it!  We began with religion, and we end with greed,
+and pride, and notoriety."
+
+"What do we want of fame!  The price is too high, Maurice.  Fame is not
+good for the hearts and minds of simple folk."
+
+"It will soon be over."
+
+"I dread a sordid reaction."
+
+The Seigneur stood thinking for a moment.  "I have an idea," he said at
+last.  "Let us have these last days to ourselves.  The mission ends next
+Saturday at five o'clock.  We will announce that all strangers must leave
+the valley by Wednesday night.  Then, during those last three days, while
+yet the influence of the play is on them, you can lead your own people
+back to the old quiet feelings."
+
+"My dear Maurice--it is worthy of you!  It is the way.  We will announce
+it to-day.  And see now.  .  .  .  For those three days we will change
+the principals; lest those who have taken the parts so long have lost the
+pious awe which should be upon them.  We will put new people in their
+places.  I will announce it at vespers presently.  I have in my mind who
+should play the Christ, and St. John, and St. Peter--the men are not hard
+to find; but for Mary the Mother and Mary Magdalene--"
+
+The eyes of the two men suddenly met, a look of understanding passed
+between them.
+
+"Will she do it?" said the Seigneur.
+
+The Cure nodded.  "Paulette Dubois has heard the word, 'Go and sin no
+more'; she will obey."
+
+Walking through the village as they talked, the Cure shrank back
+painfully several times, for voices of strangers, singing festive songs,
+rolled out upon the road.  "Who can they be?" he said distressfully.
+
+Without a word the Seigneur went to the door of the inn whence the sounds
+proceeded, and, without knocking, entered.  A moment afterwards the
+voices stopped, but broke out again, quieted, then once more broke out,
+and presently the Seigneur issued from the door, white with anger, three
+strangers behind him.  All were intoxicated.
+
+One was violent.  It was Billy Wantage, whom the years had not improved.
+He had arrived that day with two companions--an excursion of curiosity
+as an excuse for a "spree."
+
+"What's the matter with you, old stick-in-the-mud?" he shouted.  "Mass
+is over, isn't it?  Can't we have a little guzzle between prayers?"
+
+By this time a crowd had gathered, among them Filion Lacasse.  At a
+motion from the Seigneur, and a whisper that went round quickly, a dozen
+habitants swiftly sprang on the three men, pinioned their arms, and
+carrying them bodily to the pump by the tavern, held them under it, one
+by one, till each was soaked and sober.  Then their horses and wagon were
+brought, and they were given five minutes to leave the village.
+
+With a devilish look in his eye, and drenched and furious, Billy was
+disposed to resist the command, but the faces around him were determined,
+and, muttering curses, the three drove away towards the next parish.
+
+
+
+
+CHAPTER LIII
+
+THE SEIGNEUR AND THE CURE HAVE A SUSPICION
+
+Presently the Seigneur and the Cure stood before the door of the tailor-
+shop.  The Cure was about to knock, when the Seigneur laid a hand upon
+his arm.
+
+"There is no use; he has been gone several days," he said.
+
+"Gone--gone!" said the Cure.
+
+"I came to see him yesterday, and not finding him, I asked at the post-
+office."  M. Rossignol's voice lowered.  "He told Mrs. Flynn he was going
+into the hills, so Rosalie says."
+
+The Cure's face fell.  "He went away also just before the play began.
+I almost fear that--that we get no nearer.  His mind prompts him to do
+good and not evil, and yet--and yet.  .  .  .  I have dreamed a good
+dream, Maurice, but I sometimes fear I have dreamed in vain."
+
+"Wait-wait!"
+
+M. Loisel looked towards the post-office musingly.  "I have thought
+sometimes that what man's prayers may not accomplish a woman's love might
+do.  If--but, alas, what do we know of his past!  Nothing.  What do we
+know of his future?  Nothing.  What do we know of the human heart?
+Nothing--nothing!"
+
+The Seigneur was astounded.  The Cure's meaning was plain.  "What do you
+mean?" he asked, almost gruffly.
+
+"She--Rosalie--has changed--changed."  In his heart he dwelt sorrowfully
+upon the fact that she had not been to confession to him for many, many
+months.
+
+"Since her father's death--since her illness?"
+
+"Since she went to Montreal seven months ago.  Even while she was so ill
+these past weeks, she never asked for me; and when I came .  .  .  Ah, if
+it is that her heart has gone out to the man, and his does not respond!"
+
+"A good thing, too!" said the other gloomily.  "We don't know where he
+came from, and we do know that he is a pagan."
+
+"Yet there she sits now, hour after hour, day after day--so changed."
+
+"She has lost her father," urged M. Rossignol anxiously.
+
+"I know the grief of children--this is not such a grief.  There is
+something more.  But I cannot ask. If she were a sinner--but she is
+without fault.  Have we not watched her grow up here, mirthful, brave,
+pure-souled--"
+
+"Fitted for any station," interposed the Seigneur huskily.  Presently he
+laid a hand upon the Cure's arm.  "Shall I ask her again?" he said,
+breathing hard.  "Do you think she has found out her mistake?"
+
+The Cure was so taken aback that at first he could not speak.  When he
+realised, however, he could scarce suppress a smile at the other's simple
+vanity.  But he mastered himself, and said: "It is not that, Maurice.  It
+is not you."
+
+"How did you know I had asked her?" asked his friend querulously.
+
+"You have just told me."
+
+M. Rossignol felt a kind of reproval in the Cure's tone.  It made him a
+little nervous.  "I'm an old fool, but she needed some one," he
+protested.  "At least I am a gentleman, and she would not be thrown
+away."
+
+"Dear Maurice!" said the Cure, and linked his arm in the other's.  "In
+all respects save one, it would have been to her advantage.  But youth is
+the only comrade for youth.  All else is evasion of life's laws."
+
+The Seigneur pressed his arm.  "I thought you less worldly-wise than
+myself; I find you more," he said.
+
+"Not worldly-wise.  Life is deeper than the world or worldly wisdom.
+Come, we will both go and see Rosalie."
+
+M. Rossignol suddenly stopped at the post-office door, and half turned
+towards the tailor-shop.  "He is young.  Suppose that he drew her love
+his way, but gave her nothing in return, and--"
+
+"If it were so"--the Cure paused, and his face darkened--"if it were so,
+he should leave her forever; and so my dream would end."
+
+"And Rosalie?"
+
+"Rosalie would forget.  To remember, youth must see and touch and be
+near, else it wears itself out in excess of feeling.  Youth feels more
+deeply than age, but it must bear daily witness."
+
+"Upon my honour, Cure, you shall write your little philosophies for the
+world," said M. Rossignol, and then knocked at the door.
+
+"I will go in alone, Maurice," the Cure urged.  "Good-you are right,"
+answered the other.  "I will go write the proclamation denying strangers
+the valley after Wednesday.  I will enforce it, too," he added, with
+vigour, and, turning, walked up the street, as Mrs. Flynn admitted the
+Cure to the post-office.
+
+A half-hour later M. Loisel again appeared at the post-office door, a
+pale, beautiful face at his shoulder.
+
+He had not been brave enough to say what was on his mind.  But as he bade
+her good-bye, he plucked up needful courage.
+
+"Forgive me, Rosalie," he said, "but I have sometimes thought that you
+have more griefs than one.  I have thought"--he paused, then went on
+bravely--"that there might be--there might be unwelcomed love, or love
+deceived."
+
+A mist came before her eyes, but she quietly and firmly answered: "I have
+never been deceived in love, Monsieur Loisel."
+
+"There, there!" he hurriedly and gently rejoined.  "Do not be hurt, my
+child.  I only want to help you."  A moment afterwards he was gone.
+
+As the door closed behind him, she drew herself proudly up.
+
+"I have never been deceived," she said aloud.  "I love him--love him--love
+him."
+
+
+
+
+CHAPTER LIV
+
+M. ROSSIGNOL SLIPS THE LEASH
+
+It was the last day of the Passion Play, and the great dramatic mission
+was drawing to a close.  The confidence of the Cure and the Seigneur was
+restored.  The prohibition against strangers had had its effect, and for
+three whole days the valley had been at rest again.  Apparently there was
+not a stranger within its borders, save the Seigneur's brother, the Abbe
+Rossignol, who had come to see the moving spectacle.
+
+The Abbe, on his arrival, had made inquiries concerning the tailor of
+Chaudiere and Jo Portugais, as persistently about the one as the other.
+Their secrets had been kept inviolate by him.
+
+It was disconcerting to hear the tales people told of the tailor's
+charity and wisdom.  It was all dangerous, for what was, accidentally,
+no evil in this particular instance, might be the greatest disaster in
+another case.  Principle was at stake.  He heard in stern silence the
+Cure's happy statement that Jo Portugais had returned to the bosom of the
+Church, and attended Mass regularly.
+
+"So it may be, my dear Abbe," said M. Loisel, "that the friendship
+between him and our 'infidel' has been the means of helping Portugais.
+I hope their friendship will go on unbroken for years and years."
+
+"I have no idea that it will," said the Abbe grimly.  "That rope of
+friendship may snap untimely."
+
+"Upon my soul, you croak like a raven!" testily broke in M. Rossignol,
+who was present.  "I didn't know there was so much in common between you
+and my surly-jowled groom.  He gets his pleasure out of croaking.  'Wait,
+wait, you'll see--you'll see!  Death, death, death--every man must die!
+The devil has you by the hair--death--death--death!'  Bah!  I'm heartily
+sick of croakers.  I suppose, like my grunting groom, you'll say about
+the Passion Play, 'No good will come of it--wait--wait--wait!'  Bah!"
+
+"It may not be an unmixed good," answered the ascetic.
+
+"Well, and is there any such thing on earth as an unmixed good?  The play
+yesterday was worth a thousand sermons.  It was meant to serve Holy
+Church, and it will serve it.  Was there ever anything more real--and
+touching--than Paulette Dubois as Mary Magdalene yesterday?"
+
+"I do not approve of such reality.  For that woman to play the part is to
+destroy the impersonality of the scene."
+
+"You would demand that the Christus should be a good man, and the St.
+John blameless--why shouldn't the Magdalene be a repentant woman?"
+
+"It might impress the people more, if the best woman in your parish were
+to play the part.  The fall of virtue, the ruin of innocence, would be
+vividly brought home.  It does good to make the innocent feel the terror
+and shame of sin.  That is the price the good pay for the fall of man--
+sorrow and shame for those who sin."  The Seigneur, rising quickly from
+the table, and kicking his chair back, said angrily: "Damn your
+theories!"  Then, seeing the frozen look on his brother's face,
+continued, more excitedly: "Yes, damn, damn, damn your theories!  You
+always took the crass view.  I beg your pardon, Cure--I beg your pardon."
+
+He then went to the window, threw it open, and called to his groom.
+
+"Hi, there, coffin-face," he said, "bring round the horses--the quietest
+one in the stable for my brother--you hear?  He can't ride," he added
+maliciously.
+
+This was his fiercest stroke, for the Abbe's secret vanity was the belief
+that he looked well on a horse, and rode handsomely.
+
+
+
+
+CHAPTER LV
+
+ROSALIE PLAYS A PART
+
+From a tree upon a little hill rang out a bell--a deep-toned bell, bought
+by the parish years before for the missions held at this very spot.
+Every day it rang for an instant at the beginning of each of the five
+acts.  It also tolled slowly when the curtain rose upon the scene of the
+Crucifixion.  In this act no one spoke save the abased Magdalene, who
+knelt at the foot of the cross, and on whose hair red drops fell when the
+Roman soldier pierced the side of the figure on the cross.  This had been
+the Cure's idea.  The Magdalene should speak for mankind, for the
+continuing world.  She should speak for the broken and contrite heart in
+all ages, should be the first-fruits of the sacrifice, a flower of the
+desert earth, bedewed by the blood of the Prince of Peace.
+
+So, in the long nights of the late winter and early spring, the Cure had
+thought and thought upon what the woman should say from the foot of the
+cross.  At last he put into her mouth that which told the whole story of
+redemption and deliverance, so far as his heart could conceive it--the
+prayer for all sorts and conditions of men and the general thanksgiving
+of humanity.
+
+During the last three days Paulette Dubois had taken the part of Mary
+Magdalene.  As Jo Portugais had confessed to the Abbe that notable day in
+the woods at Vadrome Mountain, so she had confessed to the Cure after so
+many years of agony--and the one confession fitted into the other: Jo had
+once loved her, she had treated him vilely, then a man had wronged her,
+and Jo had avenged her--this was the tale in brief.  She it was who
+laughed in the gallery of the court-room the day that Joseph Nadeau was
+acquitted.
+
+It had pained and shocked the Cure more than any he had ever heard, but
+he urged for her no penalty as Portugais had set for himself with the
+austere approval of the Abbe.  Paulette's presence as the Magdalene had
+had a deep effect upon the people, so that she shared with Mary the
+Mother the painfully real interest of the vast audience.
+
+Five times had the bell rung out in the perfect spring air, upon which
+the balm of the forest and the refreshment of the ardent sun were poured.
+The quick anger of M. Rossignol had passed away long before the Cure, the
+Abbe, and himself had reached the lake and the great plateau.  Between
+the acts the two brothers walked up and down together, at peace once
+more, and there was a suspicious moisture in the Seigneur's eyes.  The
+demeanour of the people had been so humble and rapt that the place and
+the plateau and the valley seemed alone in creation with the lofty drama
+of the ages.
+
+The Cure's eyes shone when he saw on a little knoll in the trees, apart
+from the worshippers and spectators, Charley and Jo Portugais.  His cup
+of content was now full.  He had felt convinced that if the tailor had
+but been within these bounds during the past three days, a work were
+begun which should end only at the altar of their parish church.  To-day
+the play became to him the engine of God for the saving of a man's soul.
+Not long before the last great tableau was to appear he went to his own
+little tent near the hut where the actors prepared to go upon the stage.
+As he entered, some one came quickly forward from the shadow of the trees
+and touched him on the arm.
+
+"Rosalie!" he cried in amazement, for she wore the costume of Mary
+Magdalene.
+
+"It is I, not Paulette, who will appear," she said, a deep light in her
+eyes.
+
+"You, Rosalie?" he asked dumfounded.  "You are distrait.  Trouble and
+sorrow have put this in your mind.  You must not do it."
+
+"Yes, I am going there," she said, pointing towards the great stage.
+"Paulette has given me these to wear"--she touched the robe--"and I only
+ask your blessing now.  Oh, believe, believe me, I can speak for those
+who are innocent and those who are guilty; for those who pray and those
+who cannot pray; for those who confess and those who dare not!  I can
+speak the words out of my heart with gladness and agony, Monsieur," she
+urged, in a voice vibrating with feeling.
+
+A luminous look came into the Cure's face.  A thought leapt up in his
+heart.  Who could tell!--this pure girl, speaking for the whole sinful,
+unbelieving, and believing world, might be the one last conquering
+argument to the man.
+
+He could not read the agony of spirit which had driven Rosalie to this
+--to confess through the words of Mary Magdalene her own woe, to say it
+out to all the world, and to receive, as did Paulette Dubois, every day
+after the curtain came down, absolution and blessing.  She longed for the
+old remembered peace.
+
+The Cure could not read the struggle between her love for a man and the
+ineradicable habit of her soul; but he raised his hand, made the sacred
+gesture over leer, and said: "Go, my child, and God be with you."
+
+He could not see her for tears as she hurried away to where Paulette
+Dubois awaited her--the two at peace now.  At the hands of the lately
+despised and injurious woman Rosalie was made ready to play the part in
+the last act, none knowing save the few who appeared in the final
+tableau, and they at the last moment only.
+
+The bell began to toll.
+
+A thousand people fell upon their knees, and with fascinated yet abashed
+and awe-struck eyes saw the great tableau of Christendom: the three
+crosses against the evening sky, the Figure in the centre, the Roman
+populace, the trembling Jews, the pathetic groups of disciples.  A cloud
+passed across the sky, the illusion grew, and hearts quivered in piteous
+sympathy.  There was no music now--not a sound save the sob of some
+overwrought woman.  The woe of an oppressed world absorbed them.  Even
+the stolid Indians, as Roman soldiers, shrank awe-stricken from the
+sacred tragedy.  Now the eyes of all were upon the central Figure, then
+they shifted for a moment to John the Beloved, standing with the Mother.
+
+"Pauvre Mere!  Pauvre Christ!" said a weeping woman aloud.
+
+A Roman soldier raised a spear and pierced the side of the Hero of the
+World.  Blood flowed, and hundreds gasped.  Then there was silence--a
+strange hush as of a prelude to some great event.
+
+"It is finished.  Father, into Thy hands I commend my spirit," said the
+Figure.
+
+The hush was broken by such a sound as one hears in a forest when a wind
+quivers over the earth, flutters the leaves, and then sinks away--neither
+having come nor gone, but only lived and died.
+
+Again there was silence, and then all eyes were fixed upon the figure at
+the foot of the cross-Mary the Magdalene.
+
+Day after day they had seen this figure rise, come forward a step, and
+speak the epilogue to this moving miracle-drama.  For the last three days
+Paulette Dubois had turned a sorrowful face upon them, and with one hand
+upraised had spoken the prayer, the prophecy, the thanksgiving, the
+appeal of humanity and the ages.  They looked to see the same figure now,
+and waited.  But as the Magdalene turned, there was a great stir in the
+multitude, for the face bent upon them was that of Rosalie Evanturel.
+Awe and wonder moved the people.
+
+Apart from the crowd, under a clump of trees, knelt a woodsman from
+Vadrome Mountain, and the tailor of Chaudiere stood beside him.
+
+When Charley, touched by the heavy scene, saw the figure of the Magdalene
+rise, he felt a curious thrill of fascination.  When she turned, and he
+saw the face of Rosalie, the blood rushed to his face; then his heart
+seemed to stand still.  Pain and shame travelled to the farthest recesses
+of his nature.  Jo Portugais rose to his feet with a startled
+exclamation.
+
+Rosalie began to speak.  "This is the day of which the hours shall never
+cease--in it there shall be no night.  He whom ye have crucified hath
+saved you from the wrath to come.  He hath saved others, Himself He would
+not save.  Even for such as I, who have secretly opened, who have
+secretly entered, the doors of sin--"
+
+With a gasp of horror and a mad desire to take her away from the sight of
+this gaping, fascinated crowd, Charley made to rush forward, but Jo
+Portugais held him back.
+
+"Be still.  You will ruin her, M'sieu'!" said Jo.
+
+"--even for such as I am," the beautiful voice went on, "hath He died.
+And in the ages to come, women such as I, and all women who sorrow, and
+all men who err and are deceived, and all the helpless world, will know
+that this was the Friend of the human soul."  Not a gesture, not a
+movement, only that slight, pathetic figure, with pale, agonised face,
+and eyes that looked--looked--looked beyond them, over their heads to the
+darkening east, the clouded light of evening behind her.  Her voice rang
+out now valiant and clear, now searching and piteous, yet reaching to
+where the farthermost person knelt, and was lost upon the lake and in the
+spreading trees.
+
+"What ye have done may never be undone; what He hath said shall never be
+unsaid.  His is the Word which shall unite all languages, when ye that
+are Romans shall be no more Romans, and ye that are Jews shall still be
+Jews, reproached and alone.  No longer shall men faint in the glare--the
+shadow of the Cross shall screen them.  No more shall woman bear her
+black sorrows, alone; the Light of the World shall cheer her."
+
+As she spoke, the cloud drew back from the sunset, and the saffron glow
+behind lighted the cross, and shone upon her hair, casting her face in a
+gracious shadow.  Her voice rose higher.  "I, the Magdalene, am the
+first-fruits of this sacrifice: from the foot of the cross I come.
+I have sinned more than all.  I have shamed all women.  But I have
+confessed my sin, and He is faithful and just to forgive us our sins and
+to cleanse us from all unrighteousness."
+
+Her voice now became lower, but clear and even, pathetically exulting:
+
+"O world, forgive, as He hath forgiven you!  Fall, dark curtain, and hide
+this pain, and rise again upon forgiven sin and a redeemed people!"
+
+She stood still, with her eyes upraised, and the curtain came slowly
+down.
+
+For a long time no one in all the gathered multitude stirred.  Far over
+under the trees a man sat upon the ground, his head upon his arms, and
+his arms upon his knees, in a misery unmeasurable.  Beside him stood a
+woodsman, who knew of no word to say that might comfort him.
+
+A girl, in the garb of the Magdalene, entered the tent of the Cure, and,
+speaking no word, knelt and received absolution of her sins.
+
+
+
+
+CHAPTER LVI
+
+MRS. FLYNN SPEAKS
+
+CHARLEY left Jo Portugais behind, and went home alone.  He watched at a
+window till he saw Rosalie return.  As she passed quickly down the street
+with Mrs. Flynn to her own door, he observed that her face was happier
+than he had seen it for many a day.  Her step was lighter, there was a
+freedom in her air, a sense of confidence in her carriage.
+
+She bore herself as one who had done a thing which relaxed a painful
+tension.  There was a curious glow in her eyes and face, and this became
+deeper as, showing himself at the door, she saw him, smiled, and stood
+still.  He came across the street and took her hand.
+
+"You have been away," she said softly.  "For a few days," he answered.
+
+"Far?"
+
+"At Vadrome Mountain."
+
+"You have missed these last days of the Passion Play," she said, a shadow
+in her eyes.
+
+"I was present to-day," he answered.
+
+She turned away her head quickly, for the look in his eyes told her more
+than any words could have done, and Mrs. Flynn said:
+
+"'Tis a day for everlastin' mimory, sir.  For the part she played this
+day, the darlin', only such as she could play!  'Tis the innocent takin'
+the shame o' the guilty, and the tears do be comin' to me eyes.  'Tis not
+ould Widdy Flynn's eyes alone that's wet this day, but hearts do be
+weepin' for the love o' God."
+
+Rosalie suddenly opened the door, and, without another look at Charley,
+entered the house.
+
+"'Tis one in a million!" said Mrs. Flynn, in a confidential tone, for
+she had a fixed idea that Rosalie loved Charley and that he loved her,
+and that the only thing that stood in the way of their marriage was
+religion.  From the first Charley had conquered Mrs. Flynn.  That he was
+a tailor was a pity and a shame, but love was love, and the man had a
+head on him and a heart in him; and love was love!  So Mrs. Flynn said:
+
+"'Tis one that a man that's a man should do annything for, was it havin'
+the heart cut out uv him, or givin' the last drop uv his blood.  Shure,
+for such as her, murder, or false witness, or givin' up the last wish or
+thought a man hugged to his boosom, would be as aisy as aisy."
+
+Charley laughed to himself, her purpose was so obvious, but his heart
+went out to her, for she was a friend, and, whatever came to him, Rosalie
+would not be alone.
+
+"I believe every word of yours," he said, shaking her hand, "and we'll
+see, you and I, that no man marries her who isn't ready to do what you
+say."
+
+"Would you do it yourself--if it was you?" she asked, flushing for her
+boldness.
+
+"I would," he answered.
+
+"Then do it," she said, and fled inside the house and shut the door.
+
+"Mrs. Flynn--good Mrs. Flynn!" he said, and went back sadly to his
+house, and shut himself up with his thoughts.  When night drew on he went
+to bed, but he could not sleep.  He got up after a time, and taking pen
+and paper, wrote for a long time.  Having finished, he took what he had
+written, and placing it with the two packets-of money and pearls--which
+he had brought from his old home, he addressed it to the Cure, and going
+to the safe in the wall of the shop, placed them inside and locked the
+door.
+
+Then he went to bed, and slept soundly--the deep sleep of the just.
+
+
+
+
+CHAPTER LVII
+
+A BURNING FIERY FURNACE
+
+Every man within the limits of the parish was in his bed, save one.  He
+was a stranger who, once before, had visited Chaudiere for one brief day,
+when he had been saved from death at the Red Ravine, and had fled the
+village that night because, as he thought, he had heard the voice of his
+old friend's ghost in the trees.  Since that time he had travelled in
+many parishes, healing where he could, entertaining where he might,
+earning money as the charlatan.  He was now on his way back through the
+parishes to Montreal, and his route lay through Chaudiere.  He had hoped
+to reach Chaudiere before nightfall--he remembered with fear the incident
+from which he had fled many months before; but his horse had broken its
+leg on a corduroy bridge, a few miles out from the parish in the hills,
+and darkness came upon him before he could hide his wagon in the woods
+and proceed afoot to Chaudiere.  He had shot his horse, and rolled it
+into the swift torrent beneath the bridge.
+
+Travelling the lonely road, he drank freely from the whiskey-horn he
+carried, to keep his spirits up, so that by the time he came to the
+outskirts of Chaudiere he was in a state of intoxication, and reeled
+impudently along with the "Dutch courage" the liquor had given him.
+Arrived at the first cluster of houses in the place, he paused uncertain.
+Should he knock here or go on to the tavern?  He shivered at thought of
+the tavern, for it was near it he had heard Charley Steele's voice
+calling to him out of the trees.  If he knocked here, would the people
+admit him in his present state?--he had sense enough to know that he was
+very drunk.  As he shook his head in owlish gravity, he saw the church on
+the hill not far away.  He chuckled to himself.  The carpet in the
+chancel and the hassocks at the altar would make a good bed.  No fear of
+Charley's ghost coming inside the church--it wouldn't be that kind of a
+ghost.  As he travelled the intervening space, shrugging his shoulders,
+staggering serenely, he told himself in confidence that he would leave
+the church at dawn, go to the tavern, purchase a horse as soon as might
+be, and get back to his wagon.
+
+The church door was unlocked, and he entered and made his way to the
+chancel, found surplices in the vestry and put a hassock inside one for a
+pillow.  Then he sat down and drew the loose rug of the chancel-floor
+over him, and took another drink from the whiskey horn.  Lighting his
+pipe, he smoked for a while, but grew drowsy, and his pipe fell into his
+lap.  With eyes nearly shut he struck another match, made to light his
+pipe again, but threw the match away, still burning.  As he did so the
+pipe dropped again from his mouth, and he fell back on the hassock-pillow
+he had made.
+
+The lighted match fell on a surplice which had dropped from his arms as
+he came from the vestry, and set it afire.  In five minutes the whole
+chancel was burning, and the sleeping man waked in the midst of smoke and
+flame.  He staggered to his feet with a terror-stricken cry, stumbled
+down the aisle, through the front door, and out into the night.  Reaching
+the road, he turned his face again to the hill where his wagon lay hid.
+If he could reach that, he would be safe; nobody would suspect him.  He
+clutched the whiskey-horn tight and broke into a run.  As he passed
+beyond the village his excited imagination heard Charley Steele's ghost
+calling after him.  He ran harder.  The voice kept calling from
+Chaudiere.
+
+Not Charley's voice, but the voices of many people in Chaudiere were
+calling.  Some wakeful person had seen the glare in the church windows
+and had given the alarm, and now there rang through the streets the call-
+"Fire! Fire! Fire!"
+
+Charley and Jo were among the last to wake, for both had slept soundly,
+but Jo was roused by a handful of gravel thrown at his window and a
+warning cry, and a few moments later he and Charley were in the street
+with a hurrying crowd.  Over all the village was a red glare, lighting up
+the sky, burnishing the trees.  The church was a mass of flames.
+
+Charley was as pale as the rest of the crowd; for he thought of the Cure,
+he thought of this people to whom their church meant more than home and
+vastly more than friend and fortune.  His heart was with them all: not
+because it was their church that was burning, but because it was
+something dear to them.
+
+Reaching the hill, he saw the Cure coming from the vestry of the burning
+church, bearing some vessels of the altar.  Depositing them in the arms
+of his weeping sister, he turned again towards the door.  People clung to
+him, and would not let him go.
+
+"See, it is all inflames," they cried.  "Your cassock is singed.  You
+shall not go."
+
+At that moment Charley and Portugais came up.  A hurried question to the
+Cure from Charley, a key handed over, a nod from Jo, and before the Cure
+could prevent them the two men had rushed through the smoke and flame
+into the vestry, Portugais holding Charley's hand.
+
+The crowd outside waited in a terrible anxiety.  The timbers of the
+chancel portion of the building seemed about to fall, and still the two
+men did not appear.  The people called; the Cure clinched his hands at
+his side--he was too fearful even to pray.
+
+But now the two men appeared, loaded with the few treasures of the
+church.  They were scorched and singed, and the beards of both were
+burned, but, stumbling and exhausted, they brought their loads to the
+eager arms of the waiting habitants.
+
+Then from the other end of the church came a cry: "The little cross--the
+little iron cross!"  Then another cry: "Rosalie Evanturel!  Rosalie
+Evanturel!"  Some one came running to the Cure.
+
+"Rosalie Evanturel has gone inside for the little cross on the pillar.
+She is in the flames; the door has fallen in.  She can't get out again."
+
+With a hoarse cry, Charley darted back inside the vestry door.  A cry of
+horror went up.
+
+It was only a minute and a half, but it seemed like years, and then a man
+in flames appeared in the fiery porch--and not alone.  He carried a girl
+in his arms.  He wavered even at the threshold with the timbers swaying
+overhead, but, with a last effort, he plunged forward through the
+furnace, and was caught by eager hands on the margin of endurable heat.
+The two were smothered in quilts brought from the Cure's house, and
+carried swiftly to the cool safety of the grass and trees beyond.  The
+woman had fainted in the flame of the church; the man dropped insensible
+as they caught her from his arms.
+
+As they tore away Charley's coat muffling his face, and opened his shirt,
+they stared in awe.  The cross which Rosalie had torn from the pillar,
+Charley had thrust into his bosom, and there it now lay on the red scar
+made by itself in the hands of Louis Trudel.
+
+M. Loisel waved the people back.  He raised Charley's head.  The Abbe
+Rossignol, who had just arrived with the Seigneur, lifted the cross from
+the insensible man's breast.
+
+He started when he saw the scar.  Then he remembered the tale he had
+heard.  He turned away gravely to his brother.  "Was it the cross or the
+woman he went for?" he asked.
+
+"Great God--do you ask!" the Seigneur said indignantly.  "And he
+deserves her," he muttered under his breath.
+
+Charley opened his eyes.  "Is she safe?" he asked, starting up.
+
+"Unscathed, my son," the Cure said.
+
+Was this tailor-man not his son?  Had he not thirsted for his soul as a
+hart for the water-brooks?
+
+"I am very sorry for you, Monsieur," said Charley.
+
+"It is God's will," was the reply, in a choking voice.  "It will be years
+before we have another church--many, many years."
+
+The roof gave way with a crash, and the spire shot down into the flaming
+debris.
+
+The people groaned.
+
+"It will cost sixty thousand dollars to build it up again," said Filion
+Lacasse.
+
+"We have three thousand dollars from the Passion Play," said the Notary.
+"That could go towards it."
+
+"We have another two thousand in the bank," said Maximilian Cour.
+
+"But it will take years," said the saddler disconsolately.
+
+Charley looked at the Cure, mournful and broken but calm.  He saw the
+Seigneur, gloomy and silent, standing apart.  He saw the people in
+scattered groups, looking more homeless than if they had no homes.  Some
+groups were silent; others discussed angrily the question, who was the
+incendiary--that it had been set on fire seemed certain.
+
+"I said no good would come of the play-acting," said the Seigneur's
+groom, and was flung into the ditch by Filion Lacasse.
+
+Presently Charley staggered to his feet, purpose in his face.  These
+people, from the Cure and Seigneur to the most ignorant habitant, were
+hopeless and inert.  The pride of their lives was gone.
+
+"Gather the people together," he said to the Notary and Filion Lacasse.
+Then he turned to the Cure and the Seigneur.
+
+"With your permission, messieurs," he said, "I will do a harder thing
+than I have ever done.  I will speak to them all."
+
+Wondering, M. Loisel added his voice to the Notary's, and the word went
+round.  Slowly they all made their way to a spot the Cure indicated.
+
+Charley stood on the embankment above the road, the notables of the
+parish round him.
+
+Rosalie had been taken to the Cure's house.  In that wild moment in the
+church when she had fallen insensible in Charley's arms, a new feeling
+had sprung up in her.  She loved him in every fibre, but she had a
+strange instinct, a prescience, that she was lying on his breast for the
+last time.  She had wound her arms round his neck, and, as his lips
+closed on hers, she had cried: "We shall die together--together."
+
+As she lay in the Cure's house, she thought only of that moment.
+
+"What are they cheering for?" she asked, as a great noise came to her
+through the window.
+
+"Run and see," said the Cure's sister to Mrs. Flynn, and the fat woman
+hurried away.
+
+Rosalie raised herself so that she could look out of the window.  "I can
+see him," she cried.
+
+"See whom?" asked the Cure's sister.
+
+"Monsieur," she answered, with a changed voice.  "He is speaking.  They
+are cheering him."
+
+Ten minutes later, the Cure and the Notary entered the room.  M. Loisel
+came forward to Rosalie, and took her hands in his.
+
+"You should not have done it," he said.
+
+"I wanted to do something," she replied.  "To get the cross for you
+seemed the only payment I could make for all your goodness to me."
+
+"It nearly cost you your life--and the life of another," he said, shaking
+his head reproachfully.
+
+Cheering came again from the burning church.  "Why do they cheer?" she
+asked.
+
+"Why do they cheer?  Because the man we have feared, Monsieur Mallard--"
+
+"I never feared him," said Rosalie, scarcely above her breath.
+
+"Because he has taught them the way to a new church again--and at once,
+at once, my child."
+
+"A remarkable man!" said Narcisse Dauphin.  "There never was such a
+speech.  Never in any courtroom was there such an appeal."
+
+"What did he do?" asked Mademoiselle Loisel, her hand in Rosalie's.
+
+"Everything," answered the Cure.  "There he stood in his tattered
+clothes, the beard burnt to his chin, his hands scorched, his eyes
+bloodshot, and he spoke--"
+
+"'With the tongues of men and of angels,'" said M. Dauphin
+enthusiastically.
+
+The Cure frowned and continued: "'You look on yonder burning walls,' he
+said, 'and wonder when they will rise again on this hill made sacred by
+the burial of your beloved, by the christening of your children, the
+marriages which have given you happy homes, and the sacraments which are
+to you the laws of your lives.  You give one-twentieth of your income
+yearly towards your church--then give one-fortieth of all you possess
+today, and your church will be begun in a month.  Before a year goes
+round you will come again to this venerable spot and enter another church
+here.  Your vows, your memories, and your hopes will be purged by fire.
+All that you possess will be consecrated by your free-will offerings.'
+--Ah, if I could but remember what came afterwards!  It was all
+eloquence, and generous and noble thought."
+
+"He spoke of you," said the Notary--"he spoke the truth; and the people
+cheered.  He said that the man outside the walls could sometimes tell the
+besieged the way relief would come.  Never again shall I hear such a
+speech."
+
+"What are they going to do?" asked Rosalie, and withdrew her trembling
+hand from that of Madame Dugal.
+
+"This very day, at my office, they will bring their offerings, and we
+will begin at once," answered M. Dauphin.  "There is no man in Chaudiere
+but will take the stocking from the hole, the bag from the chest, the
+credit from the bank, the grain from the barn for the market, or make the
+note of hand to contribute one-fortieth of all he is worth for the
+rebuilding of the church."
+
+"Notes of hand are not money," said the Cure's sister, the practical
+sense ever uppermost.
+
+"They shall all be money--hard cash," said the Notary.  "The Seigneur is
+going to open a sort of bank, and take up the notes of hand, and give
+bank-bills in return.  To-day I go with his steward to Quebec to get the
+money."
+
+"What does the Abbe Rossignol say?" said the Cure's sister.
+
+"Our church and parish are our own," interposed the Cure proudly.  "We do
+our duty and fear no abbe."
+
+"Voila!" said M. Dauphin, "he never can keep hands off.  I saw him go to
+Jo Portugais a little while ago.  'Remember!' he said--I can't make out
+what he was after.  We have enough to remember to-day, for sure."
+
+"Good may come of it, perhaps," said M. Loisel, looking sadly out upon
+the ruins of his church.
+
+"See, 'tis the sunrise!" said Mrs. Flynn's voice from the corner, her
+face towards the eastern window.
+
+
+
+
+CHAPTER LVIII
+
+WITH HIS BACK TO THE WALL
+
+In four days ten thousand dollars in notes and gold had been brought to
+the office of the Notary by the faithful people of Chaudiere.  All day in
+turn M. Loisel and M. Rossignol sat in the office and received that which
+represented one-fortieth of the value of each man's goods, estate, and
+wealth--the fortieth value of a woodsawyer's cottage, or a widow's
+garden.  They did it impartially for all, as the Cure and three of the
+best-to-do habitants had done for the Seigneur, whose four thousand
+dollars had been paid in first of all.
+
+Charley had been confined to his room for three days, because of his
+injuries and a feverish cold he had caught, and the habitants did not
+disturb his quiet.  But Mrs. Flynn took him broth made by Rosalie's
+hands, and Rosalie fought with her desire to go to him and nurse him.
+She was not, however, the Rosalie of the old impulse and impetuous
+resolve--the arrow had gone too deep; she waited till she could see his
+face again and look into his eyes.  Not apathy, but a sense of the
+inevitable was upon her, and pale and fragile, but with a calm spirit,
+she waited for she knew not what.
+
+She felt that the day of fate was closing down.  She must hold herself
+ready for the hour when he would need her most.  At first, when the
+conviction had come to her that the end of all was near, she had
+revolted.  She had had impulse to go to him at all hazards, to say to
+him: "Come away--anywhere, anywhere!"  But that had given place to the
+deeper thing in her, and something of Charley's spirit of stoic waiting
+had come upon her.
+
+She watched the people going to the Notary's office with their tributes
+and free-will offerings, and they seemed like people in a play--these
+days she lived no life which was theirs.  It was a dream, unimportant
+and temporary.  She was feeling what was behind all life, and permanent.
+It could not last, but there it was; and she could not return to the
+transitory till this cloud of fate was lifted.  She was much too young to
+suffer so, but the young ever suffer most.
+
+On the fourth day she saw Charley.  He came from his shop and went to the
+Notary's office.  At first she was startled, for he was clean-shaven--the
+fire had burned his beard to the skin.  She saw a different man, far
+removed from this life about them both--individual, singular.  He was
+pale, and his eye-glass, with the cleanshaven face, gave an impression of
+refined separateness.  She did not know that the same look was in both
+their faces.  She watched him till he entered the Notary's shop, then she
+was called away to her duties.
+
+Charley had come to give his one-fortieth with the rest.  When he entered
+the Notary's office, the Seigneur and M. Dauphin stood up to greet him.
+They congratulated him on his recovery, while feeling also that the
+change in his personal appearance somehow affected their relations.
+A crowd gathered round the door of the shop.  When Charley made his
+offering, with a statement of his goods and income, the Seigneur and
+Notary did not know what to do.  They were disposed to decline it, for
+since Monsieur was no Catholic, it was not his duty to help.  At this
+moment of delicate anxiety M. Loisel entered.  With a swift bright flush
+to his cheek he saw the difficulty, and at once accepted freely.
+
+"God bless you," he said, as he took the money, and Charley left.  "It
+shall build the doorway of my church."
+
+Later in the day the Cure sent for Charley.  There were grave matters to
+consider, and his counsel was greatly needed.  They had all come to
+depend on the soundness of his judgment.  It had never gone astray in
+Chaudiere, they said.  They owed to him this extraordinary scheme, which
+would be an example to all modern Christianity.  They told him so.  He
+said nothing in reply.
+
+In an hour he had planned for them a scheme for the consideration of
+contractors; had drawn, with the help of M. Loisel, an architect's rough
+plan of the new church, and, his old professional instincts keenly alive,
+had lucidly suggested the terms and safeguards of the contracts.
+
+Then came the question of the money contributed.  The day before, M.
+Dauphin and the Seigneur's steward had arrived in safety from Quebec with
+twenty thousand dollars in bank-bills.  These M. Rossignol had exchanged
+for the notes of hand of such of the habitants as had not ready cash to
+give.  All of this twenty thousand dollars had been paid over.  They had
+now thirty thousand dollars in cash, besides three thousand which the
+Cure had at his house, the proceeds of the Passion Play.  It was proposed
+to send this large sum to the bank in Quebec in another two days, when
+the whole contributions should be complete.
+
+As to the safety of the money, the timid M. Dauphin did not care to take
+responsibility.  Strangers were still arriving, ignorant of the fact that
+the Passion Play had ceased, and some of them must be aware that this
+large sum of money was in the parish--no doubt also knew that it was in
+his house.  It was therefore better, he urged, that M. Rossignol or the
+Cure should take charge of it.  M. Loisel urged that secrecy as to the
+resting-place of the money was important.  It was better that it should
+be deposited in the most unlikely place, and with some unofficial person
+who might not be supposed to have it in charge.
+
+"I have it!" said the Seigneur.  "The money shall be placed in old Louis
+Trudel's safe in the wall of the tailor-shop."
+
+It was so arranged, after Charley's protests of unwillingness, and
+counter-appeals from the others.  That evening at sundown thirty-three
+thousand dollars was deposited in the safe in the old stone wall of the
+tailorshop, and the lock was sealed with the parish seal.
+
+But the Notary's wife had wormed the secret from her husband, and she
+found it hard to keep.  She told it to Maximilian Cour, and he kept it.
+She told it to her cousin, the wife of Filion Lacasse, and she did not
+keep it.  Before twenty-four hours went round, a dozen people knew it.
+
+The evening of the second day, another two thousand dollars was added to
+the treasure, and the lock was again sealed--with the utmost secrecy.
+Charley and Jo Portugais, the infidel and the murderer, were thus the
+sentries to the peace of a parish, the bankers of its gifts, the security
+for the future of the church of Chaudiere.  Their weapons of defence were
+two old pistols belonging to the Seigneur.
+
+"Money is the master of the unexpected," the Seigneur had said as he
+handed them over.  He chuckled for hours afterwards as he thought of his
+epigram.  That night, as he turned over in bed for the third time, as was
+his custom before going to sleep, another epigram came to him--"Money is
+the only fox hunted night and day."  He kept repeating it over and over
+again with vain pride.
+
+The truth of M. Rossignol's aphorisms had been demonstrated several days
+before.  On his return from Quebec with the twenty thousand dollars of
+the Seigneur's money, M. Dauphin had dwelt with great pride on the
+discretion and energy he and the steward had shown; had told dramatically
+of the skill which had enabled them to make a journey of such importance
+so secretly and safely; had covered himself with blushes for his own
+coolness and intrepidity.  Fortune had, however, favoured his reputation
+and his intrepidity, for he had been pursued from the hour he and his
+companion left Quebec.  A taste for the picturesque had impelled him to
+arrange for two relays of horses, and this fact saved him and the twenty
+thousand dollars he carried.  Two hours after he had left Quebec, four
+determined men had got upon his trail, and had only been prevented from
+overtaking him by the freshness of the horses which his dramatic
+foresight had provided.
+
+The leader of these four pursuers was Billy Wantage, who had come to know
+of the curious action of the Seigneur of Chaudiere from an intimate
+friend, a clerk in the bank.  Billy's fortunes were now in a bad way,
+and, in desperate straits for money, he had planned this bold attempt at
+the highwayman's art with two gamblers, to whom he owed money, and a
+certain notorious horse-trader of whom he had made a companion of late.
+Having escaped punishment for a crime once before, through Charley's
+supposed death, the immunity nerved him to this later and more dangerous
+enterprise.  The four rode as hard as their horses would permit, but M.
+Dauphin and his companion kept always an hour or more ahead, and, from
+the high hills overlooking the village, Billy and his friends saw the two
+enter it safely in the light of evening.
+
+His three friends urged Billy to turn back, since they were out of
+provisions and had no shelter.  It was unwise to go to a tavern or a
+farmer's house, where they must certainly be suspected.  Billy, however,
+determined to make an effort to find the banking-place of the money, and
+refused to turn back without a trial.  He therefore proposed that they
+should separate, going different directions, secure accommodation for the
+night, rest the following day, and meet the next night at a point
+indicated.  This was agreed upon, and they separated.
+
+When the four met again, Billy had nothing to communicate, as he had been
+taken ill during the night before, and had been unable to go secretly
+into Chaudiere village.  They separated once more.  When they met the
+next night Billy was accompanied by an old confederate.  As he was
+entering Chaudiere the previous evening, he had met John Brown, with his
+painted wagon and a new mottled horse.  John Brown had news of importance
+to give; for, in the stable-yard of the village tavern, he had heard one
+habitant confide to another that the money for the new church was kept in
+the safe of the tailor-shop.  John Brown was as ready to share in Billy's
+second enterprise as he had been to incite him to his first crime.
+
+So it was that as the Seigneur made his epigram and gloated over it, the
+five men, with horses at a convenient distance, armed to the teeth, broke
+stealthily into Charley's house.
+
+They entered silently through the kitchen window, and made their way into
+the little hall.  Two stood guard at the foot of the stairs, and three
+crept into the shop.
+
+This night Jo Portugais was sleeping up-stairs, while Charley lay upon
+the bench in the tailor-shop.  Charley heard the door open, heard
+unfamiliar steps, seized his pistol, and, springing up, with his back to
+the safe, called out loudly to Jo.  As he dimly saw men rush at him, he
+fired.  The bullet reached its mark, and one man fell dead.  At that
+moment a dark-lantern was turned full on Charley, and a pistol was fired
+pointblank at him.
+
+As he fell, shot through the breast, the man who had fired dropped the
+lantern with a shriek of terror.  He had seen the ghost of his brother-
+in-law-Charley Steele.
+
+With a quaking cry of warning to the others, Billy bolted from the house,
+followed by his companions, two of whom were struggling with Jo Portugais
+on the stairway.  These now also broke and ran.
+
+Jo rushed into the shop, and saw, as he thought, Charley lying dead--
+saw the robber dead upon the floor.  His master and friend gone, the
+conviction seized him that his own time had come.  He would give himself
+to justice now--but to God's justice, not to man's.  The robbers were
+four to one, and he would avenge his master's death and give his own life
+to do it!  It was all the thought of a second.  He rushed out after the
+robbers, shouting as he ran, to awake the villagers.  He heard the
+marauders ahead of him, and, fleet of foot, rushed on.  Reaching them as
+they mounted, he fired, and brought down his man--a shivering quack-
+doctor, who, like his leader, had seen a sight in the tailor-shop that
+struck terror to his soul.  Two of the others then fired at Jo, who had
+caught a horse by the head.  He fell without a sound, and lay upon his
+face--he did not hear the hoofs of the escaping horses nor any other
+sound.  He had fallen without a pang beside the quackdoctor, whose
+medicines would never again quicken a pulse in his own body or any other.
+
+Behind, in the village, frightened people flocked about the tailor-shop.
+Within, Mrs. Flynn and the Notary crudely but tenderly bound up the
+dreadful wound in Charley's side, while Rosalie pillowed his head on her
+bosom.
+
+With a strange quietness Rosalie gave orders to the Notary and Mrs.
+Flynn.  There was a light in her eyes--an unnatural light--of strength
+and presence of mind.  Her hand was steady, and as gently as a mother
+with a child she wiped the moist forehead, and poured a little brandy
+between the set teeth.
+
+"Stand back--give him air," she said, in a voice of authority to those
+who crowded round.
+
+People fell back in awe, for, amid tears and excitement and fear, this
+girl had a strange convincing calm.  By the time Charley's wound was
+stopped, messengers were on the way to the Cure and the Seigneur.  By
+Rosalie's instructions the dead body of the robber was removed, Charley's
+bed up-stairs was prepared for him, a fire was lighted, and twenty hands
+were ready to do accurately her will.  Now and again she felt his pulse,
+and she watched his face intently.  In her bitter sorrow her heart had a
+sort of thankfulness, for his head was on her breast, he was in her arms.
+It had been given her once more to come first to his rescue, and with one
+wild cry, unheard by any one, to call out his beloved name.
+
+The world of Chaudiere, roused by the shooting, had then burst in upon
+them; but that one moment had been hers, no matter what came after.  She
+had no illusions--she knew that the end was near: the end of all for him
+and for them both.
+
+The Cure entered and hurried forward.  There was the seal of the parish
+intact on the door of the safe, but at what cost!
+
+"He has given his life for the church," he said, then commanded all to
+leave, save those needed to carry the wounded man up-stairs.
+
+Still it was Rosalie that directed the removal.  She held his hand; she
+saw that he was carefully laid down; she raised his head to a proper
+height; she moistened his lips and fanned him.  Meanwhile the Cure fell
+upon his knees, and the noise of talk and whispering ceased in the house.
+
+But presently there was loud murmuring and shuffling of feet outside
+again, and Rosalie left the room hurriedly and went below to stop it.
+She met the men who were bringing the body of Jo Portugais into the shop.
+
+Up-stairs the Cure's voice prayed: "Of Thy mercy, O Lord, hear our
+prayer.  Grant that he be brought into Thy Church ere his last hour come.
+Forgive, O Lord--"
+
+Charley stirred and opened his eyes.  He saw the Cure bowed in prayer; he
+heard the trembling voice.  He touched the white head with his hand.
+
+
+
+
+CHAPTER LIX
+
+IN WHICH CHARLEY MEETS A STRANGER
+
+The Cure came to his feet with a joyful cry.  "Monsieur--my son," he
+said, bending over him.
+
+"Is it all over?" Charley asked calmly, almost cheerfully.  Death now
+was the only solution of life's problems, and he welcomed it from the
+void.
+
+The Cure went to the door and locked it.  The deepest desire of his life
+must here be uttered, his great aspiration be realised.
+
+"My son," he said, as he came softly to the bedside again, "you have
+given to us all you had--your charity, your wisdom, your skill.  You have
+"--it was hard, but the man's wound was mortal, and it must be said "you
+have consecrated our new church with your blood.  You have given all to
+us; we will give all to you--"
+
+There was a soft knocking at the door.  He went and opened it a very
+little.  "He is conscious, Rosalie," he whispered.  "Wait--wait--one
+moment."
+
+Then came the Seigneur's voice saying that Jo was gone, and that all the
+robbers had escaped, save the two disposed of by Charley and Jo.
+
+The Cure turned to the bed once more.  "What did he say about Jo?"
+Charley asked.
+
+"He is dead, my son, and the quack-doctor also.  The others have
+escaped."
+
+Charley turned his face away.  "Au revoir, Jo," he said into the great
+distance.
+
+Then there was silence for a moment, while outside the door a girl
+prayed, with an old woman's arm around her.
+
+The Cure leaned over Charley again.  "Shall not the sacraments of the
+Church comfort you in your last hours?" he said.  "It is the way, the
+truth, and the life.  It is the Voice that says: 'Peace' to the vexed
+mind.  Human intellect is vanity; only the soul survives.  Will you not
+hear the Voice?  Will you not give us who love and honour you the right
+to make you ours for ever?  Will you not come to the bosom of that Church
+for which you have given all?"
+
+"Tell them so," Charley said, and he motioned towards the window, under
+which the people were gathered.
+
+With a glad exclamation the Cure hastened to the window, and, in a voice
+of sorrowful exultation, spoke to the people below.
+
+Charley reckoned swiftly with his fate.  What was there now to do?  If
+his wound was not mortal, what tragedy might now come!  For Billy's hand
+--the hand of Kathleen's brother--had brought him low.  If the robbers
+and murderers were captured, he must be dragged into the old life, and to
+what an issue--all the old problems carried into more terrible
+conditions.  And Rosalie--in his half-consciousness he had felt her near
+him; he felt her near him now.  Rosalie--in any case, what could there be
+for her?  Nothing.  He had heard the Cure whisper her name at the door.
+She was outside-praying for him.  He stretched out a hand as though he
+saw her, and his lips framed her name.  In his weakness and fading life
+he had no anguish in the thought of her.  Life and Love were growing
+distant though he loved her as few love and live.  She would be removed
+from want by him--there were the pearls and the money in the safe with
+the money of the Church; there was the letter to the Cure, his last
+testament, leaving all to her.  He, sleeping, would fear no foe; she,
+awake in the living world, would hold him in dear remembrance.  Death
+were the better thing for all.  Then Kathleen in her happiness would be
+at peace; and even Billy might go unmolested, for, who was there to
+recognise Billy, now that Portugais was dead?
+
+He heard the Cure's voice at the window--"Oh, my dear people, God has
+given him to us at last.  I go now to prepare him for his long journey,
+to--"
+
+Charley realised and shuddered.  Receive the sacraments of the Church?
+Be made ready by the priest for his going hence--end all the soul's
+interrogations, with the solving of his own mortal problems?  Say "I
+believe," confess his sins, and, receiving absolution, lie down in peace.
+
+He suddenly raised himself on his elbow, flinging his body over.  The
+bandage of his wound was displaced, and blood gushed out upon the white
+clothes of the bed.  "Rosalie!" he gasped.  "Rosalie, my love!  God keep
+.  .  .  "
+
+As he sank back he heard the priest's anguished voice above him, calling
+for help.  He smiled.
+
+"Rosalie--" he whispered.  The priest ran and unlocked the door, and
+Rosalie entered, followed by the Seigneur and Mrs. Flynn.
+
+"Quick!  Quick!" said the priest.  "The bandage slipped."
+
+The bandage slipped--or was it slipped?  Who knows!
+
+Blind with agony, and as in a direful dream, Rosalie made her way to the
+bed.  The sight of his ensanguined body roused her, and, murmuring his
+name--continually murmuring his name--she assisted Mrs. Flynn to bind up
+the wound again.  Standing where she stood when she had stayed Louis
+Trudel's arm long ago, with an infinite tenderness she touched the scar-
+the scar of the cross--on his breast.  Terrible as was her grief, her
+heart had its comfort in the thought--who could rob her of that for
+ever?--that he would die a martyr.  It did not matter now who knew the
+story of her love.  It could not do him harm.  She was ready to proclaim
+it to all the world.  And those who watched knew that they were in the
+presence of a great human love.
+
+The priest made ready to receive the unconscious man into the Church.
+Had Charley not said, "Tell them so?"  Was it not now his duty to say the
+sacred offices over a son of the Church in his last bitter hour?  So it
+was done while he lay unconscious.
+
+For hours he lay still, and then the fevered blood, poisoned by the
+bullet which had brought him down, made him delirious, gave him
+hallucinations--open-eyed illusions.  All the time Rosalie knelt at the
+foot of the bed, her piteous tearless eyes for ever fixed on his face.
+
+Towards evening, with an unnatural strength, he sat up in bed.
+
+"See," he whispered, "that woman in the corner there.  She has come to
+take me, but I will not go."  Fantasy after fantasy possessed him-
+fantasy, strangely mixed with facts of his own past.  Now it was
+Kathleen, now Billy, now Jo Portugais, now John Brown, now Suzon
+Charlemagne at the Cote Dorion, again Jo Portugais.  In strange, touching
+sentences he spoke to them, as though they were present before him.  At
+length he stopped abruptly, and gazed straight before him--over the head
+of Rosalie into the distance.
+
+"See," he said, pointing, "who is that?  Who?  I can't see his face--it
+is covered.  So tall-so white!  He is opening his arms to me.  He is
+coming--closer--closer.  Who is it?"
+
+"It is Death, my son," said the priest in his ear, with a pitying
+gentleness.
+
+The Cure's voice seemed to calm the agitated sense, to bring it back to
+the outer precincts of understanding.  There was an awe-struck silence as
+the dying man fumbled, fumbled, over his breast, found his eye-glass,
+and, with a last feeble effort, raised it to his eye, shining now with an
+unearthly fire.  The old interrogation of the soul, the elemental habit
+outlived all else in him.  The idiosyncrasy of the mind automatically
+expressed itself.
+
+"I beg--your--pardon," he whispered to the imagined figure, and the light
+died out of his eyes, "have I--ever--been--introduced--to you?"
+
+"At the hour of your birth, my son," said the priest, as a sobbing cry
+came from the foot of the bed.
+
+But Charley did not hear.  His ears were for ever closed to the voices of
+life and time.
+
+
+
+
+CHAPTER LX
+
+THE HAND AT THE DOOR
+
+The eve of the day of the memorable funeral two belated visitors to the
+Passion Play arrived in the village, unknowing that it had ended, and of
+the tragedy which had set a whole valley mourning; unconscious that they
+shared in the bitter fortunes of the tailor-man, of whom men and women
+spoke with tears.  Affected by the gloom of the place, the two visitors
+at once prepared for their return journey, but the manner of the
+tailorman's death arrested their sympathies, touched the humanity in
+them.  The woman was much impressed.
+
+They asked to see the body of the man.  They were taken to the door of
+the tailor-shop, while their horses were being brought round.  Within the
+house itself they were met by an old Irishwoman, who, in response to
+their wish "to see the brave man's body," showed them into a room where a
+man lay dead with a bullet through his heart.  It was the body of Jo
+Portugais, whose master and friend lay in another room across the
+hallway.  The lady turned back in disappointment--the dead man was little
+like a hero.
+
+The Irishwoman had meant to deceive her, for at this moment a girl who
+loved the tailor was kneeling beside his body, and, if possible, Mrs.
+Flynn would have no curious eyes look upon that scene.
+
+When the visitors came into the hall again, the man said: "There was
+another; Kathleen--a woodsman."  But standing by the nearly closed door,
+behind which lay the dead tailor of Chaudiere--they could see the holy
+candles flickering within--Kathleen whispered "We've seen the tailor--
+that's enough.  It's only the woodsman there.  I prefer not, Tom."
+
+With his fingers at the latch, the man hesitated, even as Mrs. Flynn
+stepped apprehensively forward; then, shrugging a shoulder, he responded
+to Kathleen's hand on his arm.  They went down the stairs together, and
+out to their carriage.
+
+As they drove away, Kathleen said: "It's strange that men who do such
+fine things should look so commonplace."
+
+"The other one might have been more uncommon," he replied.
+
+"I wonder!" she said, with a sigh of relief, as they passed the bounds
+of the village.  Then she caught herself flushing, for she suddenly
+realised that the exclamation was one so often on the lips of a dead,
+disgraced man whose name she once had borne.
+
+If the door of the little room upstairs had opened to the fingers of the
+man beside her, the tailor of Chaudiere, though dead, would have been
+dearly avenged.
+
+
+
+
+CHAPTER LXI
+
+THE CURE SPEAKS
+
+The Cure stood with his back to the ruins of the church, at his feet two
+newly made graves, and all round, with wistful faces, crowds of reverent
+habitants.  A benignant sorrow made his voice in perfect temper with the
+pensive striving of this latest day of spring.  At the close of his
+address he said:
+
+"I owe you much, my people.  I owe him more, for it was given him, who
+knew not God, to teach us how to know Him better.  For his past, it is
+not given you to know.  It is hidden in the bosom of the Church.  Sinner
+he once was, criminal never, as one can testify who knows all"--he turned
+to the Abbe Rossignol, who stood beside him, grave and compassionate--
+"and his sins were forgiven him.  He is the one sheaf which you and I may
+carry home rejoicing from the pagan world of unbelief.  What he had in
+life he gave to us, and in death he leaves to our church all that he has
+not left to a woman he loved--to Rosalie Evanturel."
+
+There was a gasping murmur among the people, but they stilled again, and
+strained to hear.
+
+"He leaves her a little fortune, and to us all else he had.  Let us pray
+for his soul, and let us comfort her who, loving deeply, reaped no
+harvest of love.
+
+"The law may never reach his ruthless murderers, for there is none to
+recognise their faces; and were they ten times punished, how should it
+avail us now!  Let us always remember that, in his grave, our friend
+bears on his breast the little iron cross we held so dear.  That is all
+we could give--our dearest treasure.  I pray God that, scarring his
+breast in life, it may heal all his woes in death, and be a saving image
+on his bosom in the Presence at the last."
+
+He raised his hands in benediction.
+
+
+
+
+EPILOGUE
+
+Never again was there a Passion Play in the Chaudiere Valley.  Spring-
+times and harvests and long winters came and went, and a blessing seemed
+to be upon the valley, for men prospered, and no untoward things befel
+the people.  So it was for twenty years, wherein there had been going and
+coming in quiet.  Some had gone upon short mortal journeys and had come
+back, some upon long immortal voyages, and had never returned.  Of the
+last were the Seigneur and a woman once a Magdalene; but in a house
+beside a beautiful church, with a noble doorway, lived the Cure, M.
+Loisel, aged and serene.  There never was a day, come rain or shine, in
+which he was not visited by a beautiful woman, whose life was one with
+the people of the valley.
+
+There was no sorrow in the parish which the lady did not share, with the
+help of an old Irishwoman called Mrs. Flynn.  Was there sickness in the
+parish, her hand smoothed the pillow and soothed the pain.  Was there
+trouble anywhere, her face brought light to the door way.  Did any suffer
+ill-repute, her word helped to restore the ruined name.  They did not
+know that she forgave so much in all the world, because she thought she
+had so much in herself to forgive.
+
+She was ever called "Madame Rosalie," and she cherished the name, and
+gave commands that when her grave came to be made near to a certain other
+grave, Madame Rosalie should be carved upon the stone.  Cheerfulness and
+serenity were ever with her, undisturbed by wish to probe the mystery of
+the life which had once absorbed her own.  She never sought to know
+whence the man came; it was sufficient to know whither he had gone, and
+that he had been hers for a brief dream of life.  It was better to have
+lived the one short thrilling hour with all its pain, than never to have
+known what she knew or felt what she had felt.  The mystery deepened her
+romance, and she was even glad that the ruffians who slew him were never
+brought to justice.  To her mind they were but part of the mystic
+machinery of fate.
+
+For her the years had given many compensations, and so she told the Cure,
+one midsummer day, when she brought to visit him the orphaned son of
+Paulette Dubois, graduated from his college in France and making ready to
+go to the far East.
+
+"I have had more than I deserve--a thousand times," she said.
+
+The Cure smiled, and laid a gentle hand upon her own.  "It is right for
+you to think so," he said, "but after a long life, I am ready to say
+that, one way or another, we earn all the real happiness we have.  I mean
+the real happiness--the moments, my child.  I once had a moment full of
+happiness."
+
+"May I ask?" she said.
+
+"When my heart first went out to him"--he turned his face towards the
+churchyard.
+
+"He was a great man," she said proudly.
+
+The Cure looked at her benignly: she was a woman, and she had loved the
+man.  He had, however, come to a stage of life where greatness alone
+seemed of little moment.  He forbore to answer her, but he pressed her
+hand.
 
 
 
 
 ETEXT EDITOR'S BOOKMARKS:
 
-Boldness without rashness, and hope without vain thinking
-Nothing is futile that is right
-Religion to him was a dull recreation invented chiefly for women
+Youth is the only comrade for youth
 
 
 
 
 
-*** END OF THE PROJECT GUTENBERG EBOOK MICHEL AND ANGELE, PARKER, V1 ***
+*** END OF THE PROJECT GUTENBERG EBOOK THE RIGHT OF WAY, PARKER, V6 ***
 
-********* This file should be named 6248.txt or 6248.zip *********
+******** This file should be named gp75w10.txt or gp75w10.zip *********
 
-This eBook was produced by David Widger
+Corrected EDITIONS of our eBooks get a new NUMBER, gp75w11.txt
+VERSIONS based on separate sources get new LETTER, gp75w10a.txt
+
+This eBook was produced by David Widger <widger@cecomet.net>
 
 Project Gutenberg eBooks are often created from several printed
 editions, all of which are confirmed as Public Domain in the US
